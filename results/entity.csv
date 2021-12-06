@@ -1,0 +1,2229 @@
+entity,type,time,sentiment,score,company,channel
+spacex,PERSON,2021-09-02,1 star,1,spacex,tweet
+vandenberg,GPE,2021-09-02,1 star,1,spacex,tweet
+bocha rita tx,PERSON,2021-09-02,1 star,1,spacex,tweet
+sun,FAC,2021-09-02,1 star,1,spacex,tweet
+elon,ORG,2021-09-02,1 star,1,spacex,tweet
+falcon 9,ORG,2021-09-02,5 stars,5,spacex,tweet
+musk,PERSON,2021-09-02,5 stars,5,spacex,tweet
+daddydoge,PERSON,2021-09-01,5 stars,5,spacex,tweet
+mars,LOC,2021-09-01,5 stars,5,spacex,tweet
+twitter,PRODUCT,2021-09-01,1 star,1,spacex,tweet
+elon,PERSON,2021-09-01,1 star,1,spacex,tweet
+jordan,GPE,2021-09-01,1 star,1,spacex,tweet
+tesla,ORG,2021-09-01,1 star,1,spacex,tweet
+falcon,ORG,2021-09-01,1 star,1,spacex,tweet
+first,ORDINAL,2021-09-01,2 stars,2,spacex,tweet
+spacex,ORG,2021-09-02,4 stars,4,spacex,tweet
+isaac asimov,PERSON,2021-08-30,4 stars,4,spacex,tweet
+spacex,ORG,2021-08-30,3 stars,3,spacex,tweet
+nft,ORG,2021-09-01,5 stars,5,spacex,tweet
+falcon,ORG,2021-08-29,1 star,1,spacex,tweet
+first,ORDINAL,2021-08-29,4 stars,4,spacex,tweet
+falcon 9 s,ORG,2021-08-29,5 stars,5,spacex,tweet
+asog,ORG,2021-08-29,5 stars,5,spacex,tweet
+sd,ORG,2021-08-29,3 stars,3,spacex,tweet
+don,PERSON,2021-08-30,1 star,1,spacex,tweet
+florida,GPE,2021-08-29,5 stars,5,spacex,tweet
+vero beach,GPE,2021-08-29,5 stars,5,spacex,tweet
+outer space shack,FAC,2021-08-29,5 stars,5,spacex,tweet
+england,GPE,2021-08-29,1 star,1,spacex,tweet
+america,GPE,2021-08-29,1 star,1,spacex,tweet
+clement geo,PERSON,2021-08-30,5 stars,5,spacex,tweet
+spacex,PERSON,2021-08-30,5 stars,5,spacex,tweet
+india,GPE,2021-08-30,5 stars,5,spacex,tweet
+station,ORG,2021-08-29,4 stars,4,spacex,tweet
+sci fi,ORG,2021-08-29,5 stars,5,spacex,tweet
+jupiter,LOC,2021-08-29,3 stars,3,spacex,tweet
+asog,GPE,2021-08-29,5 stars,5,spacex,tweet
+first,ORDINAL,2021-08-29,5 stars,5,spacex,tweet
+falcon 9,PRODUCT,2021-08-29,5 stars,5,spacex,tweet
+80th,ORDINAL,2021-08-29,5 stars,5,spacex,tweet
+titusville,GPE,2021-08-29,5 stars,5,spacex,tweet
+fl,GPE,2021-08-29,5 stars,5,spacex,tweet
+crs,ORG,2021-08-29,1 star,1,spacex,tweet
+falcon,ORG,2021-08-29,1 star,1,spacex,tweet
+the millennium falcon,ORG,2021-08-29,1 star,1,spacex,tweet
+first,ORDINAL,2021-08-29,4 stars,4,spacex,tweet
+bezos,PERSON,2021-08-28,3 stars,3,spacex,tweet
+starlink,ORG,2021-08-28,1 star,1,spacex,tweet
+texas,GPE,2021-08-28,1 star,1,spacex,tweet
+david wayne,PERSON,2021-08-28,4 stars,4,spacex,tweet
+raytheon aircraft 4 textron s,PRODUCT,2021-08-28,4 stars,4,spacex,tweet
+station,ORG,2021-08-28,4 stars,4,spacex,tweet
+iss,ORG,2021-08-28,1 star,1,spacex,tweet
+santa claus,PERSON,2021-08-28,1 star,1,spacex,tweet
+bezos,PRODUCT,2021-08-28,1 star,1,spacex,tweet
+iss,ORG,2021-08-28,3 stars,3,spacex,tweet
+falcon 9,ORG,2021-08-28,3 stars,3,spacex,tweet
+iss,ORG,2021-08-28,4 stars,4,spacex,tweet
+goodspeed spacex,PERSON,2021-08-28,4 stars,4,spacex,tweet
+usdt,ORG,2021-08-26,5 stars,5,spacex,tweet
+germany,GPE,2021-08-26,5 stars,5,spacex,tweet
+elon,PERSON,2021-08-26,5 stars,5,spacex,tweet
+earth mars,LOC,2021-08-26,5 stars,5,spacex,tweet
+oooooooooooooooooooooooooooooooooooooooooooooooooooooo,PRODUCT,2021-08-28,5 stars,5,spacex,tweet
+battlestar galactica,WORK_OF_ART,2021-08-03,4 stars,4,spacex,tweet
+saturn,PRODUCT,2021-08-03,1 star,1,spacex,tweet
+first,ORDINAL,2021-08-03,5 stars,5,spacex,tweet
+spacex,PERSON,2021-08-03,5 stars,5,spacex,tweet
+doge eth rad,ORG,2021-07-28,5 stars,5,spacex,tweet
+100th,ORDINAL,2021-07-28,5 stars,5,spacex,tweet
+gt ,PERSON,2021-07-28,5 stars,5,spacex,tweet
+c0 ns,PERSON,2021-07-27,5 stars,5,spacex,tweet
+dec0de,ORG,2021-07-27,5 stars,5,spacex,tweet
+zach,PERSON,2021-07-29,1 star,1,spacex,tweet
+europa,LOC,2021-07-23,5 stars,5,spacex,tweet
+sadbaby,ORG,2021-07-23,1 star,1,spacex,tweet
+third,ORDINAL,2021-07-23,2 stars,2,spacex,tweet
+nasa,ORG,2021-07-23,5 stars,5,spacex,tweet
+spacex,PERSON,2021-07-23,5 stars,5,spacex,tweet
+about 2 billion,MONEY,2021-07-23,5 stars,5,spacex,tweet
+moon,PERSON,2021-07-22,4 stars,4,spacex,tweet
+lanceria lanc,PERSON,2021-07-22,4 stars,4,spacex,tweet
+doge coin,ORG,2021-07-21,5 stars,5,spacex,tweet
+us,GPE,2021-07-21,1 star,1,spacex,tweet
+billions of ,MONEY,2021-07-21,1 star,1,spacex,tweet
+germany,GPE,2021-07-21,1 star,1,spacex,tweet
+first,ORDINAL,2021-07-21,3 stars,3,spacex,tweet
+moon,PERSON,2021-07-20,5 stars,5,spacex,tweet
+sadbaby,ORG,2021-07-20,5 stars,5,spacex,tweet
+einstein,PERSON,2021-07-20,3 stars,3,spacex,tweet
+mars,LOC,2021-07-20,5 stars,5,spacex,tweet
+super heavy,ORG,2021-07-20,5 stars,5,spacex,tweet
+televise love spacex,PRODUCT,2021-07-10,5 stars,5,spacex,tweet
+livestream,ORG,2021-07-10,5 stars,5,spacex,tweet
+sooo fake,PERSON,2021-07-07,1 star,1,spacex,tweet
+the tell a vision,ORG,2021-07-07,1 star,1,spacex,tweet
+spacex,PERSON,2021-06-30,5 stars,5,spacex,tweet
+ohio,GPE,2021-06-30,5 stars,5,spacex,tweet
+starlink,ORG,2021-06-30,5 stars,5,spacex,tweet
+starship  also,ORG,2021-06-30,5 stars,5,spacex,tweet
+jadore tellement,PERSON,2021-06-30,5 stars,5,spacex,tweet
+par,ORG,2021-06-30,5 stars,5,spacex,tweet
+spacex,ORG,2021-06-30,5 stars,5,spacex,tweet
+spacex,ORG,2021-06-30,3 stars,3,spacex,tweet
+nasa,ORG,2021-06-30,5 stars,5,spacex,tweet
+mars,LOC,2021-06-30,5 stars,5,spacex,tweet
+mars elon,PRODUCT,2021-06-30,5 stars,5,spacex,tweet
+jon marianek,PERSON,2021-06-30,5 stars,5,spacex,tweet
+jake paul s,PERSON,2021-06-30,5 stars,5,spacex,tweet
+earth,LOC,2021-06-30,2 stars,2,spacex,tweet
+doge,PRODUCT,2021-06-30,1 star,1,spacex,tweet
+american,NORP,2021-06-30,5 stars,5,spacex,tweet
+first,ORDINAL,2021-07-01,2 stars,2,spacex,tweet
+tesla,ORG,2021-07-01,2 stars,2,spacex,tweet
+jmh,ORG,2021-07-01,2 stars,2,spacex,tweet
+fsd spacex,ORG,2021-07-01,2 stars,2,spacex,tweet
+fsd tesla,ORG,2021-07-01,2 stars,2,spacex,tweet
+spacex,ORG,2021-06-30,5 stars,5,spacex,tweet
+jeff bezos,PERSON,2021-06-29,1 star,1,spacex,tweet
+pafb,ORG,2021-06-29,2 stars,2,spacex,tweet
+jetty park,FAC,2021-06-30,1 star,1,spacex,tweet
+dis,ORG,2021-06-29,1 star,1,spacex,tweet
+floki,PERSON,2021-06-29,4 stars,4,spacex,tweet
+don,PERSON,2021-06-29,5 stars,5,spacex,tweet
+dojo,ORG,2021-06-29,5 stars,5,spacex,tweet
+sweet,PERSON,2021-06-29,5 stars,5,spacex,tweet
+mooooon,ORG,2021-06-25,5 stars,5,spacex,tweet
+stars,WORK_OF_ART,2021-06-24,4 stars,4,spacex,tweet
+doge,PRODUCT,2021-06-24,1 star,1,spacex,tweet
+shouldn,NORP,2021-06-24,1 star,1,spacex,tweet
+spacex,ORG,2021-06-24,5 stars,5,spacex,tweet
+mars,LOC,2021-06-22,1 star,1,spacex,tweet
+don,PERSON,2021-06-22,1 star,1,spacex,tweet
+faa,ORG,2021-06-22,1 star,1,spacex,tweet
+starlink,ORG,2021-06-22,3 stars,3,spacex,tweet
+transporter,PERSON,2021-06-22,5 stars,5,spacex,tweet
+sn,ORG,2021-06-22,5 stars,5,spacex,tweet
+iron man,PERSON,2021-06-22,1 star,1,spacex,tweet
+svt,ORG,2021-06-22,4 stars,4,spacex,tweet
+dogecoin,PERSON,2021-06-21,3 stars,3,spacex,tweet
+as high as,PERCENT,2021-06-21,4 stars,4,spacex,tweet
+smc engineering,ORG,2021-06-21,5 stars,5,spacex,tweet
+smc,ORG,2021-06-24,5 stars,5,spacex,tweet
+smc amazing,ORG,2021-06-21,5 stars,5,spacex,tweet
+nasa,ORG,2021-06-21,5 stars,5,spacex,tweet
+team at space x,ORG,2021-06-21,5 stars,5,spacex,tweet
+musk,PERSON,2021-06-21,5 stars,5,spacex,tweet
+smc,ORG,2021-06-21,5 stars,5,spacex,tweet
+smc,ORG,2021-06-21,5 stars,5,spacex,tweet
+sci fi,ORG,2021-06-21,5 stars,5,spacex,tweet
+smc,ORG,2021-06-21,5 stars,5,spacex,tweet
+second,ORDINAL,2021-06-17,4 stars,4,spacex,tweet
+second,ORDINAL,2021-06-17,2 stars,2,spacex,tweet
+smc fantastic,ORG,2021-06-17,5 stars,5,spacex,tweet
+amazing,ORG,2021-06-17,5 stars,5,spacex,tweet
+smc,ORG,2021-06-17,5 stars,5,spacex,tweet
+smc,ORG,2021-06-17,1 star,1,spacex,tweet
+smc,ORG,2021-06-17,1 star,1,spacex,tweet
+spacex,ORG,2021-06-17,5 stars,5,spacex,tweet
+americans,NORP,2021-06-17,5 stars,5,spacex,tweet
+dogeeeeeeeee,ORG,2021-06-18,3 stars,3,spacex,tweet
+netflix,ORG,2021-06-20,2 stars,2,spacex,tweet
+ada,ORG,2021-06-20,2 stars,2,spacex,tweet
+amazon,ORG,2021-06-20,2 stars,2,spacex,tweet
+cryptocurrencies innovation,ORG,2021-06-20,2 stars,2,spacex,tweet
+airbnb,ORG,2021-06-20,2 stars,2,spacex,tweet
+don,PERSON,2021-06-20,2 stars,2,spacex,tweet
+really awesome,PERSON,2021-06-18,5 stars,5,spacex,tweet
+spacex,ORG,2021-06-18,5 stars,5,spacex,tweet
+second,ORDINAL,2021-06-17,1 star,1,spacex,tweet
+gps,ORG,2021-06-17,2 stars,2,spacex,tweet
+moooon,ORG,2021-06-17,5 stars,5,spacex,tweet
+mars,LOC,2021-06-17,1 star,1,spacex,tweet
+earth,LOC,2021-06-17,1 star,1,spacex,tweet
+daytona beach,GPE,2021-06-17,5 stars,5,spacex,tweet
+smc,ORG,2021-06-17,1 star,1,spacex,tweet
+first,ORDINAL,2021-06-17,5 stars,5,spacex,tweet
+spacex,ORG,2021-06-17,5 stars,5,spacex,tweet
+smc,ORG,2021-06-17,5 stars,5,spacex,tweet
+space force,ORG,2021-06-17,5 stars,5,spacex,tweet
+smc,ORG,2021-06-17,1 star,1,spacex,tweet
+lockheed,ORG,2021-06-17,1 star,1,spacex,tweet
+smc,ORG,2021-06-17,1 star,1,spacex,tweet
+smc super,ORG,2021-06-17,5 stars,5,spacex,tweet
+smc,ORG,2021-06-17,3 stars,3,spacex,tweet
+jeff bezos blue origin,ORG,2021-06-06,5 stars,5,spacex,tweet
+ula,PERSON,2021-06-09,3 stars,3,spacex,tweet
+second,ORDINAL,2021-06-09,3 stars,3,spacex,tweet
+bcz,ORG,2021-06-06,3 stars,3,spacex,tweet
+doge 1 for,LAW,2021-06-06,1 star,1,spacex,tweet
+second,ORDINAL,2021-06-06,1 star,1,spacex,tweet
+first,ORDINAL,2021-06-06,2 stars,2,spacex,tweet
+jajajajajajajaja,PERSON,2021-06-06,1 star,1,spacex,tweet
+elon,ORG,2021-06-06,3 stars,3,spacex,tweet
+tampa,GPE,2021-06-06,1 star,1,spacex,tweet
+spacex,ORG,2021-06-06,5 stars,5,spacex,tweet
+vandenberg space force base,FAC,2021-06-06,4 stars,4,spacex,tweet
+spacex,PERSON,2021-06-05,1 star,1,spacex,tweet
+station elon s,ORG,2021-06-05,1 star,1,spacex,tweet
+mark,PERSON,2021-06-05,3 stars,3,spacex,tweet
+elon,ORG,2021-06-04,4 stars,4,spacex,tweet
+station elon,ORG,2021-06-04,4 stars,4,spacex,tweet
+nft,ORG,2021-06-04,4 stars,4,spacex,tweet
+nasa,ORG,2021-06-18,4 stars,4,spacex,tweet
+doge,PERSON,2021-06-04,1 star,1,spacex,tweet
+elon,ORG,2021-06-04,1 star,1,spacex,tweet
+utc,ORG,2021-06-04,3 stars,3,spacex,tweet
+spacex,ORG,2021-06-03,5 stars,5,spacex,tweet
+18th,ORDINAL,2021-06-03,5 stars,5,spacex,tweet
+f9,ORG,2021-06-03,5 stars,5,spacex,tweet
+mars,LOC,2021-06-04,3 stars,3,spacex,tweet
+isaac asimov,PERSON,2021-06-03,5 stars,5,spacex,tweet
+space stimulations,ORG,2021-06-04,1 star,1,spacex,tweet
+spacex team go falcon,ORG,2021-06-03,5 stars,5,spacex,tweet
+doge,ORG,2021-06-03,5 stars,5,spacex,tweet
+nasa,ORG,2021-06-03,5 stars,5,spacex,tweet
+booster,ORG,2021-06-03,5 stars,5,spacex,tweet
+artik kodugumunun roketini,ORG,2021-06-03,1 star,1,spacex,tweet
+la,PERSON,2021-06-03,1 star,1,spacex,tweet
+dogecoin,PERSON,2021-06-03,5 stars,5,spacex,tweet
+moon,PERSON,2021-06-03,5 stars,5,spacex,tweet
+dogecoin,PERSON,2021-06-03,1 star,1,spacex,tweet
+kubricks 2001 a,ORG,2021-06-05,4 stars,4,spacex,tweet
+dogecoin,GPE,2021-06-03,1 star,1,spacex,tweet
+tesla,ORG,2021-06-03,1 star,1,spacex,tweet
+us,GPE,2021-06-03,1 star,1,spacex,tweet
+shiba inu,ORG,2021-06-02,5 stars,5,spacex,tweet
+doug little rabbit,PERSON,2021-06-01,4 stars,4,spacex,tweet
+doug look,PERSON,2021-05-30,5 stars,5,spacex,tweet
+doug,PERSON,2021-05-30,5 stars,5,spacex,tweet
+doug dear elon,PERSON,2021-05-30,5 stars,5,spacex,tweet
+doug,PERSON,2021-05-30,4 stars,4,spacex,tweet
+doug,PERSON,2021-05-30,1 star,1,spacex,tweet
+doug doge,PERSON,2021-05-31,5 stars,5,spacex,tweet
+doug,PERSON,2021-05-31,5 stars,5,spacex,tweet
+doge,ORG,2021-05-31,5 stars,5,spacex,tweet
+doug anniversary,PERSON,2021-05-31,5 stars,5,spacex,tweet
+doug unbelievable amazing,PERSON,2021-05-31,5 stars,5,spacex,tweet
+starlink,ORG,2021-05-26,5 stars,5,spacex,tweet
+starlink,ORG,2021-05-26,5 stars,5,spacex,tweet
+100th,ORDINAL,2021-05-26,5 stars,5,spacex,tweet
+falcon 9,ORG,2021-05-26,5 stars,5,spacex,tweet
+isaac asimov,PERSON,2021-05-26,5 stars,5,spacex,tweet
+falcon,ORG,2021-05-26,5 stars,5,spacex,tweet
+85th,ORDINAL,2021-05-26,5 stars,5,spacex,tweet
+science,ORG,2021-05-26,5 stars,5,spacex,tweet
+starlink,ORG,2021-05-26,3 stars,3,spacex,tweet
+moooon,PERSON,2021-05-26,5 stars,5,spacex,tweet
+f9,ORG,2021-05-26,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-26,5 stars,5,spacex,tweet
+fuuuuucccckkkyyyeeaaaahhh,NORP,2021-05-26,5 stars,5,spacex,tweet
+raf,ORG,2021-05-27,3 stars,3,spacex,tweet
+nasa,ORG,2021-05-26,5 stars,5,spacex,tweet
+mooooooon,ORG,2021-05-25,5 stars,5,spacex,tweet
+ksc,ORG,2021-05-25,3 stars,3,spacex,tweet
+vs,PRODUCT,2021-05-16,5 stars,5,spacex,tweet
+starlink,ORG,2021-05-16,1 star,1,spacex,tweet
+starlink,ORG,2021-05-16,4 stars,4,spacex,tweet
+doge doggy coin,PERSON,2021-05-16,1 star,1,spacex,tweet
+bullseye,ORG,2021-05-15,5 stars,5,spacex,tweet
+falcon,ORG,2021-05-15,5 stars,5,spacex,tweet
+80th,ORDINAL,2021-05-15,5 stars,5,spacex,tweet
+8th,ORDINAL,2021-05-15,5 stars,5,spacex,tweet
+don,PERSON,2021-05-16,3 stars,3,spacex,tweet
+doge,ORG,2021-05-15,5 stars,5,spacex,tweet
+doge 1 mission putting,PERSON,2021-05-15,1 star,1,spacex,tweet
+starlink,GPE,2021-05-15,1 star,1,spacex,tweet
+nasa,ORG,2021-05-15,3 stars,3,spacex,tweet
+first,ORDINAL,2021-05-17,5 stars,5,spacex,tweet
+elon,PERSON,2021-05-16,1 star,1,spacex,tweet
+tesla coin or,ORG,2021-05-16,1 star,1,spacex,tweet
+american,NORP,2021-05-15,1 star,1,spacex,tweet
+bitcoin,ORG,2021-05-15,3 stars,3,spacex,tweet
+uk,GPE,2021-05-15,5 stars,5,spacex,tweet
+shampoo,ORG,2021-05-14,5 stars,5,spacex,tweet
+first,ORDINAL,2021-05-14,5 stars,5,spacex,tweet
+spacex doge 1,PERSON,2021-05-14,5 stars,5,spacex,tweet
+shiba inu coin,ORG,2021-05-14,5 stars,5,spacex,tweet
+elon,ORG,2021-05-15,1 star,1,spacex,tweet
+ama,ORG,2021-05-14,1 star,1,spacex,tweet
+salir de la tierra este paraiso es obra de dios dejen de,ORG,2021-05-10,5 stars,5,spacex,tweet
+puesto como proteccion el hombre,PERSON,2021-05-10,5 stars,5,spacex,tweet
+jamas podra,PERSON,2021-05-10,5 stars,5,spacex,tweet
+lo destruye,PERSON,2021-05-10,5 stars,5,spacex,tweet
+lo que esta,PERSON,2021-05-10,5 stars,5,spacex,tweet
+drm,PERSON,2021-05-09,1 star,1,spacex,tweet
+earth,LOC,2021-05-09,4 stars,4,spacex,tweet
+starlink,ORG,2021-05-09,5 stars,5,spacex,tweet
+hawthorne,GPE,2021-05-09,1 star,1,spacex,tweet
+11th,ORDINAL,2021-05-09,1 star,1,spacex,tweet
+china,GPE,2021-05-09,1 star,1,spacex,tweet
+china,GPE,2021-05-09,1 star,1,spacex,tweet
+b1061 10 ,ORG,2021-05-09,1 star,1,spacex,tweet
+falcon,ORG,2021-05-09,1 star,1,spacex,tweet
+shelia bordelon,PERSON,2021-05-09,1 star,1,spacex,tweet
+scoop,PRODUCT,2021-05-09,1 star,1,spacex,tweet
+toooo theeee mooon,PERSON,2021-05-09,3 stars,3,spacex,tweet
+spacex,ORG,2021-05-09,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-06,5 stars,5,spacex,tweet
+elon,PERSON,2021-05-06,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-06,5 stars,5,spacex,tweet
+dogefamily,ORG,2021-05-06,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-07,4 stars,4,spacex,tweet
+falcon 9,WORK_OF_ART,2021-05-04,5 stars,5,spacex,tweet
+second,ORDINAL,2021-05-04,5 stars,5,spacex,tweet
+b1049,PERSON,2021-05-04,5 stars,5,spacex,tweet
+82nd,ORDINAL,2021-05-04,5 stars,5,spacex,tweet
+ninth,ORDINAL,2021-05-04,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-04,5 stars,5,spacex,tweet
+falcon,ORG,2021-05-04,5 stars,5,spacex,tweet
+9th,ORDINAL,2021-05-04,5 stars,5,spacex,tweet
+b1049,PERSON,2021-05-04,5 stars,5,spacex,tweet
+dodge,ORG,2021-05-04,5 stars,5,spacex,tweet
+starlink,ORG,2021-05-04,5 stars,5,spacex,tweet
+g1ve@away,ORG,2021-05-04,1 star,1,spacex,tweet
+india,GPE,2021-05-04,5 stars,5,spacex,tweet
+elon,PERSON,2021-05-04,3 stars,3,spacex,tweet
+africa,LOC,2021-05-04,3 stars,3,spacex,tweet
+4th,ORDINAL,2021-05-04,1 star,1,spacex,tweet
+konstantin tsiolkovsky,PERSON,2021-05-04,3 stars,3,spacex,tweet
+earth,LOC,2021-05-04,3 stars,3,spacex,tweet
+falcon heavy,ORG,2021-05-03,3 stars,3,spacex,tweet
+gt gt gt gt musk,PRODUCT,2021-05-03,5 stars,5,spacex,tweet
+tesla,ORG,2021-05-03,5 stars,5,spacex,tweet
+ now,PRODUCT,2021-05-03,5 stars,5,spacex,tweet
+illini soichi ,PERSON,2021-05-02,5 stars,5,spacex,tweet
+sh spacex,PERSON,2021-05-02,5 stars,5,spacex,tweet
+nas,ORG,2021-05-02,5 stars,5,spacex,tweet
+illini soichi,ORG,2021-05-02,5 stars,5,spacex,tweet
+elon musk,PERSON,2021-05-02,5 stars,5,spacex,tweet
+illini soichi,PERSON,2021-05-02,2 stars,2,spacex,tweet
+illini soichi,PERSON,2021-05-02,4 stars,4,spacex,tweet
+illini soichi all crews home,ORG,2021-05-02,5 stars,5,spacex,tweet
+nasa,ORG,2021-05-02,5 stars,5,spacex,tweet
+illini soichi,PERSON,2021-05-02,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-02,5 stars,5,spacex,tweet
+mercury,ORG,2021-05-02,5 stars,5,spacex,tweet
+illini soichi look,ORG,2021-05-02,5 stars,5,spacex,tweet
+spacex bloody,PERSON,2021-05-02,5 stars,5,spacex,tweet
+illini soichi,PERSON,2021-05-02,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-02,5 stars,5,spacex,tweet
+nasa,ORG,2021-05-02,5 stars,5,spacex,tweet
+spacex,ORG,2021-05-02,5 stars,5,spacex,tweet
+illini soichi,ORG,2021-05-02,5 stars,5,spacex,tweet
+illini soichi,ORG,2021-05-02,1 star,1,spacex,tweet
+illini soichi welcome,ORG,2021-05-02,5 stars,5,spacex,tweet
+boeing,ORG,2021-05-02,5 stars,5,spacex,tweet
+illini soichi demonstration,ORG,2021-05-02,5 stars,5,spacex,tweet
+7 cent,MONEY,2021-05-02,1 star,1,spacex,tweet
+5 cent,MONEY,2021-05-02,1 star,1,spacex,tweet
+nasa,ORG,2021-05-02,3 stars,3,spacex,tweet
+the u s,FAC,2021-05-02,3 stars,3,spacex,tweet
+los,GPE,2021-05-02,2 stars,2,spacex,tweet
+don,PERSON,2021-05-02,4 stars,4,spacex,tweet
+earth,LOC,2021-05-02,4 stars,4,spacex,tweet
+viewin history,PERSON,2021-05-02,4 stars,4,spacex,tweet
+gt gt ,PRODUCT,2021-05-02,5 stars,5,spacex,tweet
+musk7 net,ORG,2021-05-02,5 stars,5,spacex,tweet
+th1s btc,PRODUCT,2021-05-02,5 stars,5,spacex,tweet
+pog,PERSON,2021-05-02,3 stars,3,spacex,tweet
+station resilience,ORG,2021-05-02,5 stars,5,spacex,tweet
+crew 1,FAC,2021-05-02,4 stars,4,spacex,tweet
+station party,ORG,2021-05-01,5 stars,5,spacex,tweet
+texas,GPE,2021-04-29,1 star,1,spacex,tweet
+gt gt gt gt cryptoboom,PRODUCT,2021-04-30,5 stars,5,spacex,tweet
+gt gt cryptoboom,PRODUCT,2021-04-30,5 stars,5,spacex,tweet
+gt gt gt gt cryptoboom,PRODUCT,2021-04-30,5 stars,5,spacex,tweet
+don,PERSON,2021-04-29,5 stars,5,spacex,tweet
+dj,PERSON,2021-04-29,5 stars,5,spacex,tweet
+doge,PRODUCT,2021-04-29,1 star,1,spacex,tweet
+ranger,ORG,2021-04-29,1 star,1,spacex,tweet
+cia,ORG,2021-04-29,1 star,1,spacex,tweet
+mike collins,PERSON,2021-04-29,5 stars,5,spacex,tweet
+go falcon 9 go,ORG,2021-04-29,5 stars,5,spacex,tweet
+wooo,ORG,2021-04-29,3 stars,3,spacex,tweet
+blue origin,ORG,2021-04-29,3 stars,3,spacex,tweet
+first,ORDINAL,2021-04-29,4 stars,4,spacex,tweet
+first,ORDINAL,2021-04-29,5 stars,5,spacex,tweet
+falcon,PERSON,2021-04-29,5 stars,5,spacex,tweet
+115th,PRODUCT,2021-04-29,5 stars,5,spacex,tweet
+spacex,ORG,2021-04-29,5 stars,5,spacex,tweet
+falcon,ORG,2021-04-29,5 stars,5,spacex,tweet
+watching tx,FAC,2021-04-29,3 stars,3,spacex,tweet
+cali,PERSON,2021-04-29,3 stars,3,spacex,tweet
+mars,LOC,2021-04-24,4 stars,4,spacex,tweet
+iss,ORG,2021-04-24,1 star,1,spacex,tweet
+earth,LOC,2021-04-24,4 stars,4,spacex,tweet
+thailand,GPE,2021-04-24,4 stars,4,spacex,tweet
+earth,LOC,2021-04-24,5 stars,5,spacex,tweet
+station textbook,ORG,2021-04-24,5 stars,5,spacex,tweet
+gt gt gt gt www,PRODUCT,2021-04-23,5 stars,5,spacex,tweet
+tesla,PERSON,2021-04-23,5 stars,5,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,4 stars,4,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,5 stars,5,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,1 star,1,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,3 stars,3,spacex,tweet
+kimbrough megan hoshide hey space x,PERSON,2021-04-23,5 stars,5,spacex,tweet
+south africa,GPE,2021-04-23,5 stars,5,spacex,tweet
+doge,PERSON,2021-04-23,2 stars,2,spacex,tweet
+south miami dade county,GPE,2021-04-23,4 stars,4,spacex,tweet
+b1061,NORP,2021-04-23,5 stars,5,spacex,tweet
+first,ORDINAL,2021-04-23,4 stars,4,spacex,tweet
+the atlantic ocean,LOC,2021-04-23,4 stars,4,spacex,tweet
+spacex,ORG,2021-04-23,4 stars,4,spacex,tweet
+second,ORDINAL,2021-04-23,4 stars,4,spacex,tweet
+second,ORDINAL,2021-04-23,2 stars,2,spacex,tweet
+nc,GPE,2021-04-23,4 stars,4,spacex,tweet
+tampa,GPE,2021-04-23,5 stars,5,spacex,tweet
+gt elon,ORG,2021-04-23,5 stars,5,spacex,tweet
+aest,ORG,2021-04-23,5 stars,5,spacex,tweet
+b1061 2,PRODUCT,2021-04-23,5 stars,5,spacex,tweet
+shane meghan aki,PERSON,2021-04-23,5 stars,5,spacex,tweet
+ocisly,ORG,2021-04-23,5 stars,5,spacex,tweet
+b1061 2  go,ORG,2021-04-23,5 stars,5,spacex,tweet
+falcon,ORG,2021-04-23,5 stars,5,spacex,tweet
+thomas,PERSON,2021-04-23,5 stars,5,spacex,tweet
+youtube,PERSON,2021-04-23,1 star,1,spacex,tweet
+nasa,ORG,2021-04-23,1 star,1,spacex,tweet
+youtube,PERSON,2021-04-23,3 stars,3,spacex,tweet
+bcoins,PERSON,2021-04-23,5 stars,5,spacex,tweet
+jupiter,LOC,2021-04-23,1 star,1,spacex,tweet
+titan,ORG,2021-04-23,1 star,1,spacex,tweet
+spacex,PERSON,2021-04-23,5 stars,5,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,4 stars,4,spacex,tweet
+kimbrough megan hoshide astronauts,PERSON,2021-04-23,5 stars,5,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,3 stars,3,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,3 stars,3,spacex,tweet
+kimbrough megan hoshide,PERSON,2021-04-23,5 stars,5,spacex,tweet
+station ty,PERSON,2021-04-23,5 stars,5,spacex,tweet
+elon musk,PERSON,2021-04-23,5 stars,5,spacex,tweet
+the kennedy space center they,FAC,2021-04-23,5 stars,5,spacex,tweet
+spacex,ORG,2021-04-23,5 stars,5,spacex,tweet
+nasa,ORG,2021-04-23,5 stars,5,spacex,tweet
+steve jurczyk,PERSON,2021-04-23,5 stars,5,spacex,tweet
+don,PERSON,2021-04-23,5 stars,5,spacex,tweet
+richmond va,GPE,2021-04-23,4 stars,4,spacex,tweet
+uk,GPE,2021-04-23,5 stars,5,spacex,tweet
+spacex,ORG,2021-04-23,5 stars,5,spacex,tweet
+cheshire england,LOC,2021-04-23,5 stars,5,spacex,tweet
+crew 2,FAC,2021-04-23,5 stars,5,spacex,tweet
+3rd,ORDINAL,2021-04-23,5 stars,5,spacex,tweet
+falcon,ORG,2021-04-23,5 stars,5,spacex,tweet
+dragon ,ORG,2021-04-23,5 stars,5,spacex,tweet
+don,PERSON,2021-04-23,2 stars,2,spacex,tweet
+megan kimbrough,PERSON,2021-04-22,1 star,1,spacex,tweet
+nasa,ORG,2021-04-22,3 stars,3,spacex,tweet
+megan kimbrough hoshide wish,PERSON,2021-04-22,3 stars,3,spacex,tweet
+megan kimbrough hoshide woooo,PERSON,2021-04-22,4 stars,4,spacex,tweet
+megan kimbrough hoshide,PERSON,2021-04-22,4 stars,4,spacex,tweet
+megan kimbrough hoshide,PERSON,2021-04-22,4 stars,4,spacex,tweet
+megan kimbrough hoshide,PERSON,2021-04-22,4 stars,4,spacex,tweet
+tesla,ORG,2021-04-21,5 stars,5,spacex,tweet
+surpr1se,PERSON,2021-04-21,5 stars,5,spacex,tweet
+wvw btcstep,ORG,2021-04-21,1 star,1,spacex,tweet
+gt gt gt gt,PRODUCT,2021-04-21,1 star,1,spacex,tweet
+tesla,ORG,2021-04-21,1 star,1,spacex,tweet
+surpr1se,PERSON,2021-04-21,1 star,1,spacex,tweet
+ready capt,PERSON,2021-04-20,5 stars,5,spacex,tweet
+happy elon,PERSON,2021-04-20,5 stars,5,spacex,tweet
+first,ORDINAL,2021-04-18,4 stars,4,spacex,tweet
+falcon 9,ORG,2021-04-18,4 stars,4,spacex,tweet
+elon,ORG,2021-04-18,5 stars,5,spacex,tweet
+doge,ORG,2021-04-18,5 stars,5,spacex,tweet
+kishu,GPE,2021-04-21,5 stars,5,spacex,tweet
+feg,PERSON,2021-04-19,4 stars,4,spacex,tweet
+first,ORDINAL,2021-04-17,5 stars,5,spacex,tweet
+brazil,GPE,2021-04-17,3 stars,3,spacex,tweet
+spacex,ORG,2021-04-16,5 stars,5,spacex,tweet
+doge barking,PERSON,2021-04-16,3 stars,3,spacex,tweet
+doge barking,PERSON,2021-04-16,3 stars,3,spacex,tweet
+doge,PRODUCT,2021-04-16,4 stars,4,spacex,tweet
+gt gt gt gt www,PRODUCT,2021-04-07,5 stars,5,spacex,tweet
+first,ORDINAL,2021-04-07,3 stars,3,spacex,tweet
+mmorpg,PRODUCT,2021-04-07,3 stars,3,spacex,tweet
+spacex,ORG,2021-04-07,3 stars,3,spacex,tweet
+romania,GPE,2021-04-07,5 stars,5,spacex,tweet
+congrats spacex,PERSON,2021-04-07,4 stars,4,spacex,tweet
+first,ORDINAL,2021-04-07,2 stars,2,spacex,tweet
+first,ORDINAL,2021-04-07,5 stars,5,spacex,tweet
+o,ORG,2021-04-07,5 stars,5,spacex,tweet
+doug,PERSON,2021-04-07,5 stars,5,spacex,tweet
+7th,ORDINAL,2021-04-07,5 stars,5,spacex,tweet
+bob,PERSON,2021-04-07,5 stars,5,spacex,tweet
+kindly,ORG,2021-04-07,5 stars,5,spacex,tweet
+vin,PERSON,2021-04-07,5 stars,5,spacex,tweet
+starlink,ORG,2021-04-07,4 stars,4,spacex,tweet
+bob behnken,PERSON,2021-04-07,4 stars,4,spacex,tweet
+ b1058 7,LAW,2021-04-07,4 stars,4,spacex,tweet
+doug hurley,PERSON,2021-04-07,4 stars,4,spacex,tweet
+the international space station,ORG,2021-04-07,4 stars,4,spacex,tweet
+nasa,ORG,2021-04-07,4 stars,4,spacex,tweet
+ambition,PRODUCT,2021-04-07,5 stars,5,spacex,tweet
+don,PERSON,2021-04-07,1 star,1,spacex,tweet
+doug,PERSON,2021-04-07,5 stars,5,spacex,tweet
+7th,ORDINAL,2021-04-07,5 stars,5,spacex,tweet
+bob,PERSON,2021-04-07,5 stars,5,spacex,tweet
+direto,PERSON,2021-04-07,5 stars,5,spacex,tweet
+iceland,GPE,2021-04-07,5 stars,5,spacex,tweet
+pompeii,GPE,2021-04-07,5 stars,5,spacex,tweet
+first,ORDINAL,2021-04-06,5 stars,5,spacex,tweet
+spacex,PERSON,2021-04-06,5 stars,5,spacex,tweet
+starlink,GPE,2021-04-05,1 star,1,spacex,tweet
+myanmar,GPE,2021-04-05,1 star,1,spacex,tweet
+nasa,ORG,2021-04-05,5 stars,5,spacex,tweet
+sagar,PERSON,2021-04-05,5 stars,5,spacex,tweet
+india,GPE,2021-04-05,5 stars,5,spacex,tweet
+nikon,ORG,2021-04-05,5 stars,5,spacex,tweet
+nasa,ORG,2021-04-06,5 stars,5,spacex,tweet
+gt gt gt gt www,PRODUCT,2021-04-05,4 stars,4,spacex,tweet
+point reazon wavy,PERSON,2021-04-05,4 stars,4,spacex,tweet
+neo nft,PERSON,2021-04-05,5 stars,5,spacex,tweet
+first,ORDINAL,2021-04-05,5 stars,5,spacex,tweet
+iamgoingto,ORG,2021-04-05,5 stars,5,spacex,tweet
+wen hop,PERSON,2021-03-30,5 stars,5,spacex,tweet
+neuralink,ORG,2021-03-30,2 stars,2,spacex,tweet
+elon biological,PERSON,2021-03-30,2 stars,2,spacex,tweet
+20 bucks,MONEY,2021-03-30,1 star,1,spacex,tweet
+vandenberg ed,PERSON,2021-03-30,5 stars,5,spacex,tweet
+blockchain,PERSON,2021-03-24,1 star,1,spacex,tweet
+usdt,ORG,2021-03-24,1 star,1,spacex,tweet
+mars,LOC,2021-03-24,5 stars,5,spacex,tweet
+french,NORP,2021-03-24,3 stars,3,spacex,tweet
+ksp falcon,ORG,2021-03-24,5 stars,5,spacex,tweet
+sixth,ORDINAL,2021-03-24,5 stars,5,spacex,tweet
+#ocisly,PERSON,2021-03-24,5 stars,5,spacex,tweet
+sci fi,ORG,2021-03-24,5 stars,5,spacex,tweet
+theodore von karman,PERSON,2021-03-24,5 stars,5,spacex,tweet
+b1060,PRODUCT,2021-03-24,5 stars,5,spacex,tweet
+falcon,ORG,2021-03-24,5 stars,5,spacex,tweet
+second,ORDINAL,2021-03-24,2 stars,2,spacex,tweet
+sci fi,ORG,2021-03-24,5 stars,5,spacex,tweet
+james kip finch,PERSON,2021-03-24,5 stars,5,spacex,tweet
+mars,LOC,2021-03-24,5 stars,5,spacex,tweet
+starship 1,FAC,2021-03-24,5 stars,5,spacex,tweet
+east east,LOC,2021-03-24,2 stars,2,spacex,tweet
+spacex,PERSON,2021-03-24,5 stars,5,spacex,tweet
+gt gt gt www,PRODUCT,2021-03-24,5 stars,5,spacex,tweet
+tesla,ORG,2021-03-24,5 stars,5,spacex,tweet
+orbit,GPE,2021-03-24,5 stars,5,spacex,tweet
+4th,ORDINAL,2021-03-23,5 stars,5,spacex,tweet
+spacex,PERSON,2021-03-23,5 stars,5,spacex,tweet
+spacex,ORG,2021-03-17,5 stars,5,spacex,tweet
+2nd,ORDINAL,2021-03-17,2 stars,2,spacex,tweet
+second,ORDINAL,2021-03-17,3 stars,3,spacex,tweet
+cgi,ORG,2021-03-17,1 star,1,spacex,tweet
+starhopper,PERSON,2021-03-17,1 star,1,spacex,tweet
+8th,ORDINAL,2021-03-14,1 star,1,spacex,tweet
+starlink,ORG,2021-03-14,5 stars,5,spacex,tweet
+second,ORDINAL,2021-03-14,5 stars,5,spacex,tweet
+falcon 9,FAC,2021-03-14,1 star,1,spacex,tweet
+first,ORDINAL,2021-03-14,5 stars,5,spacex,tweet
+9th,ORDINAL,2021-03-14,5 stars,5,spacex,tweet
+starlink,ORG,2021-03-14,5 stars,5,spacex,tweet
+starlinks,PERSON,2021-03-14,5 stars,5,spacex,tweet
+first,ORDINAL,2021-03-14,1 star,1,spacex,tweet
+ninth,ORDINAL,2021-03-14,1 star,1,spacex,tweet
+dishy mcflat face,WORK_OF_ART,2021-03-14,1 star,1,spacex,tweet
+of course i still love you,WORK_OF_ART,2021-03-14,5 stars,5,spacex,tweet
+ninth,ORDINAL,2021-03-14,5 stars,5,spacex,tweet
+spacex,ORG,2021-03-14,5 stars,5,spacex,tweet
+the atlantic ocean,LOC,2021-03-14,5 stars,5,spacex,tweet
+falcon,ORG,2021-03-14,5 stars,5,spacex,tweet
+theodore von karman,PERSON,2021-03-14,5 stars,5,spacex,tweet
+north korea,GPE,2021-03-14,4 stars,4,spacex,tweet
+mars,LOC,2021-03-14,5 stars,5,spacex,tweet
+starship 1,FAC,2021-03-14,5 stars,5,spacex,tweet
+youtube,ORG,2021-03-14,5 stars,5,spacex,tweet
+b1051 s 9th,PERSON,2021-03-14,5 stars,5,spacex,tweet
+spacex,ORG,2021-03-14,3 stars,3,spacex,tweet
+moar satellites,PRODUCT,2021-03-13,5 stars,5,spacex,tweet
+starlink,ORG,2021-03-11,1 star,1,spacex,tweet
+spacex,ORG,2021-03-11,1 star,1,spacex,tweet
+starlinks,PERSON,2021-03-11,1 star,1,spacex,tweet
+lumber bridge nc,FAC,2021-03-11,5 stars,5,spacex,tweet
+starlink,ORG,2021-03-11,5 stars,5,spacex,tweet
+jrti ,ORG,2021-03-11,5 stars,5,spacex,tweet
+spacex,PERSON,2021-03-11,5 stars,5,spacex,tweet
+the atlantic ocean,LOC,2021-03-11,5 stars,5,spacex,tweet
+ixp,ORG,2021-03-11,5 stars,5,spacex,tweet
+service provider,ORG,2021-03-11,5 stars,5,spacex,tweet
+spacex,ORG,2021-03-11,5 stars,5,spacex,tweet
+76th,ORDINAL,2021-03-11,5 stars,5,spacex,tweet
+worm,ORG,2021-03-11,5 stars,5,spacex,tweet
+6th,ORDINAL,2021-03-11,5 stars,5,spacex,tweet
+congrats spacex,PERSON,2021-03-11,5 stars,5,spacex,tweet
+spacex,PERSON,2021-03-11,5 stars,5,spacex,tweet
+76th,ORDINAL,2021-03-11,5 stars,5,spacex,tweet
+james kip finch,PERSON,2021-03-11,5 stars,5,spacex,tweet
+hello spacex,PERSON,2021-03-11,5 stars,5,spacex,tweet
+g0 gt gt gt www,PRODUCT,2021-03-11,5 stars,5,spacex,tweet
+biog,ORG,2021-03-11,5 stars,5,spacex,tweet
+elon,ORG,2021-03-11,4 stars,4,spacex,tweet
+first,ORDINAL,2021-03-11,4 stars,4,spacex,tweet
+76th,ORDINAL,2021-03-11,4 stars,4,spacex,tweet
+seventh,ORDINAL,2021-03-11,4 stars,4,spacex,tweet
+spacex,ORG,2021-03-11,4 stars,4,spacex,tweet
+manitoba,GPE,2021-03-11,5 stars,5,spacex,tweet
+uk,GPE,2021-03-11,1 star,1,spacex,tweet
+cyberelon,ORG,2021-03-09,1 star,1,spacex,tweet
+boca chica beach,GPE,2021-03-09,1 star,1,spacex,tweet
+biog,ORG,2021-03-06,3 stars,3,spacex,tweet
+starlink,GPE,2021-03-04,5 stars,5,spacex,tweet
+elon,PERSON,2021-03-04,3 stars,3,spacex,tweet
+semyorka,PERSON,2021-03-04,3 stars,3,spacex,tweet
+elon musk s,FAC,2021-03-04,1 star,1,spacex,tweet
+starlink,GPE,2021-03-04,1 star,1,spacex,tweet
+uk,GPE,2021-03-04,3 stars,3,spacex,tweet
+lock up co2,ORG,2021-03-04,5 stars,5,spacex,tweet
+house,ORG,2021-03-04,5 stars,5,spacex,tweet
+8th,ORDINAL,2021-03-04,5 stars,5,spacex,tweet
+b1049,PERSON,2021-03-04,5 stars,5,spacex,tweet
+theodore von karman,PERSON,2021-03-04,5 stars,5,spacex,tweet
+perfect falcon 9,ORG,2021-03-04,5 stars,5,spacex,tweet
+mars,LOC,2021-03-04,4 stars,4,spacex,tweet
+pics,ORG,2021-03-04,1 star,1,spacex,tweet
+75th,ORDINAL,2021-03-04,5 stars,5,spacex,tweet
+8th,ORDINAL,2021-03-04,5 stars,5,spacex,tweet
+woot woot,PERSON,2021-03-04,3 stars,3,spacex,tweet
+yaaaay,GPE,2021-03-04,1 star,1,spacex,tweet
+starlink,ORG,2021-03-04,5 stars,5,spacex,tweet
+elon,PERSON,2021-03-04,3 stars,3,spacex,tweet
+semyorka,PERSON,2021-03-04,3 stars,3,spacex,tweet
+leben kann,PERSON,2021-03-06,5 stars,5,spacex,tweet
+wenn ich diese,PERSON,2021-03-06,5 stars,5,spacex,tweet
+herr musk konnen sie mir,PERSON,2021-03-06,5 stars,5,spacex,tweet
+halfte,GPE,2021-03-06,5 stars,5,spacex,tweet
+projekte,ORG,2021-03-06,5 stars,5,spacex,tweet
+sie,GPE,2021-03-06,5 stars,5,spacex,tweet
+tx,GPE,2021-03-03,1 star,1,spacex,tweet
+godspeed sn10,PERSON,2021-03-03,5 stars,5,spacex,tweet
+chamath palihapitiya,ORG,2021-03-03,3 stars,3,spacex,tweet
+brendan lewis,PERSON,2021-03-03,5 stars,5,spacex,tweet
+spacex,PERSON,2021-03-02,5 stars,5,spacex,tweet
+malta,GPE,2021-03-02,3 stars,3,spacex,tweet
+maltese,NORP,2021-03-02,3 stars,3,spacex,tweet
+antarctica,LOC,2021-03-02,3 stars,3,spacex,tweet
+turtle,ORG,2021-03-02,1 star,1,spacex,tweet
+starlink nrol 44,ORG,2021-03-02,1 star,1,spacex,tweet
+booo,ORG,2021-03-01,5 stars,5,spacex,tweet
+eu tenho,PERSON,2021-03-01,5 stars,5,spacex,tweet
+projeto de energia eterna,ORG,2021-03-01,5 stars,5,spacex,tweet
+co2,ORG,2021-03-01,5 stars,5,spacex,tweet
+don,PERSON,2021-02-26,5 stars,5,spacex,tweet
+chaath palihapitya,PERSON,2021-02-26,5 stars,5,spacex,tweet
+social capital,ORG,2021-02-26,5 stars,5,spacex,tweet
+don,PERSON,2021-02-26,5 stars,5,spacex,tweet
+chaath palihapitya,PERSON,2021-02-26,5 stars,5,spacex,tweet
+social capital,ORG,2021-02-26,5 stars,5,spacex,tweet
+don,PERSON,2021-02-26,5 stars,5,spacex,tweet
+chaath palihapitya,PERSON,2021-02-26,5 stars,5,spacex,tweet
+social capital,ORG,2021-02-26,5 stars,5,spacex,tweet
+don,PERSON,2021-02-27,5 stars,5,spacex,tweet
+chaath palihapitya,PERSON,2021-02-27,5 stars,5,spacex,tweet
+social capital,ORG,2021-02-27,5 stars,5,spacex,tweet
+don,PERSON,2021-02-27,5 stars,5,spacex,tweet
+chaath palihapitya,PERSON,2021-02-27,5 stars,5,spacex,tweet
+social capital,ORG,2021-02-27,5 stars,5,spacex,tweet
+soml,WORK_OF_ART,2021-02-24,5 stars,5,spacex,tweet
+nasa,ORG,2021-02-18,5 stars,5,spacex,tweet
+mars,LOC,2021-02-18,5 stars,5,spacex,tweet
+mars,LOC,2021-02-18,5 stars,5,spacex,tweet
+dodge,ORG,2021-02-18,5 stars,5,spacex,tweet
+starlink,ORG,2021-02-16,5 stars,5,spacex,tweet
+the atlantic ocean,LOC,2021-02-16,5 stars,5,spacex,tweet
+spacex,PERSON,2021-02-16,5 stars,5,spacex,tweet
+ms tree,PERSON,2021-02-16,5 stars,5,spacex,tweet
+starlinks,PERSON,2021-02-16,5 stars,5,spacex,tweet
+sl,PERSON,2021-02-16,5 stars,5,spacex,tweet
+gt gt gt gt www e,PRODUCT,2021-02-16,5 stars,5,spacex,tweet
+spacex,PERSON,2021-02-16,5 stars,5,spacex,tweet
+6th,ORDINAL,2021-02-16,5 stars,5,spacex,tweet
+ ,PRODUCT,2021-02-16,5 stars,5,spacex,tweet
+falcon,ORG,2021-02-16,5 stars,5,spacex,tweet
+starlink,GPE,2021-02-16,5 stars,5,spacex,tweet
+starlink satellites,ORG,2021-02-16,3 stars,3,spacex,tweet
+falcon 9 booster b1059,ORG,2021-02-16,3 stars,3,spacex,tweet
+53 leo ,MONEY,2021-02-16,3 stars,3,spacex,tweet
+mars,LOC,2021-02-16,3 stars,3,spacex,tweet
+don,PERSON,2021-02-16,3 stars,3,spacex,tweet
+earth,LOC,2021-02-16,3 stars,3,spacex,tweet
+first,ORDINAL,2021-02-16,5 stars,5,spacex,tweet
+of course i still love you,WORK_OF_ART,2021-02-16,5 stars,5,spacex,tweet
+the falcon 9s,ORG,2021-02-16,5 stars,5,spacex,tweet
+cape canaveral,GPE,2021-02-16,5 stars,5,spacex,tweet
+the atlantic ocean,LOC,2021-02-16,5 stars,5,spacex,tweet
+william blake happy,PERSON,2021-02-15,5 stars,5,spacex,tweet
+russians,NORP,2021-02-15,3 stars,3,spacex,tweet
+don t scrub,PERSON,2021-02-15,3 stars,3,spacex,tweet
+valencia,GPE,2021-02-15,5 stars,5,spacex,tweet
+utc,ORG,2021-02-13,4 stars,4,spacex,tweet
+spacex,ORG,2021-02-13,4 stars,4,spacex,tweet
+tesla,ORG,2021-02-13,4 stars,4,spacex,tweet
+mars,LOC,2021-02-09,5 stars,5,spacex,tweet
+falcon,ORG,2021-02-09,4 stars,4,spacex,tweet
+dodge,ORG,2021-02-09,4 stars,4,spacex,tweet
+goooo,ORG,2021-02-09,5 stars,5,spacex,tweet
+last,ORDINAL,2021-02-09,5 stars,5,spacex,tweet
+spacex,ORG,2021-02-09,5 stars,5,spacex,tweet
+moon,PERSON,2021-02-04,5 stars,5,spacex,tweet
+de muuuuun,ORG,2021-02-04,3 stars,3,spacex,tweet
+moin,PERSON,2021-02-06,5 stars,5,spacex,tweet
+nasa,ORG,2021-02-04,3 stars,3,spacex,tweet
+elon,PERSON,2021-02-04,1 star,1,spacex,tweet
+malden,GPE,2021-02-04,1 star,1,spacex,tweet
+starlink,ORG,2021-02-04,3 stars,3,spacex,tweet
+l18,ORG,2021-02-04,3 stars,3,spacex,tweet
+don,PERSON,2021-02-04,3 stars,3,spacex,tweet
+tasmania,GPE,2021-02-04,3 stars,3,spacex,tweet
+new zealand,GPE,2021-02-04,3 stars,3,spacex,tweet
+amc,ORG,2021-02-04,4 stars,4,spacex,tweet
+elon,PERSON,2021-02-04,1 star,1,spacex,tweet
+malden,GPE,2021-02-04,1 star,1,spacex,tweet
+twitter,ORG,2021-02-04,1 star,1,spacex,tweet
+florida,GPE,2021-02-04,2 stars,2,spacex,tweet
+elon,PERSON,2021-02-03,1 star,1,spacex,tweet
+malden,GPE,2021-02-03,1 star,1,spacex,tweet
+the boring company dogecoin spacex,ORG,2021-02-03,1 star,1,spacex,tweet
+moon,PERSON,2021-02-03,1 star,1,spacex,tweet
+tesla,ORG,2021-02-03,1 star,1,spacex,tweet
+first,ORDINAL,2021-02-03,1 star,1,spacex,tweet
+florida,GPE,2021-02-03,1 star,1,spacex,tweet
+falcon 9s,ORG,2021-02-03,1 star,1,spacex,tweet
+first,ORDINAL,2021-02-03,4 stars,4,spacex,tweet
+sweet,PERSON,2021-02-03,5 stars,5,spacex,tweet
+elon,ORG,2021-02-02,3 stars,3,spacex,tweet
+ ,PRODUCT,2021-02-02,5 stars,5,spacex,tweet
+amc,ORG,2021-02-01,5 stars,5,spacex,tweet
+spacex,ORG,2021-02-01,1 star,1,spacex,tweet
+saudi arabia,GPE,2021-02-01,3 stars,3,spacex,tweet
+elon,ORG,2021-02-01,3 stars,3,spacex,tweet
+elon musk,PERSON,2021-01-25,5 stars,5,spacex,tweet
+144th,PRODUCT,2021-01-25,5 stars,5,spacex,tweet
+wen hop,PERSON,2021-01-24,5 stars,5,spacex,tweet
+spacex,ORG,2021-01-24,3 stars,3,spacex,tweet
+space exploration etf,ORG,2021-01-24,3 stars,3,spacex,tweet
+ark invest,ORG,2021-01-24,3 stars,3,spacex,tweet
+starlink,ORG,2021-01-24,5 stars,5,spacex,tweet
+transporter,PERSON,2021-01-24,5 stars,5,spacex,tweet
+falcon 9,PRODUCT,2021-01-24,5 stars,5,spacex,tweet
+cuba,GPE,2021-01-24,5 stars,5,spacex,tweet
+the atlantic ocean,LOC,2021-01-24,5 stars,5,spacex,tweet
+rideshare,ORG,2021-01-24,5 stars,5,spacex,tweet
+transporter 1 weird,WORK_OF_ART,2021-01-24,1 star,1,spacex,tweet
+second,ORDINAL,2021-01-24,1 star,1,spacex,tweet
+the falcon 9s,ORG,2021-01-24,1 star,1,spacex,tweet
+starlinks,PERSON,2021-01-24,4 stars,4,spacex,tweet
+spacex,ORG,2021-01-24,5 stars,5,spacex,tweet
+ocisly,ORG,2021-01-24,5 stars,5,spacex,tweet
+sci fi,ORG,2021-01-24,5 stars,5,spacex,tweet
+spacex,ORG,2021-01-24,5 stars,5,spacex,tweet
+first,ORDINAL,2021-01-24,5 stars,5,spacex,tweet
+english,LANGUAGE,2021-01-24,1 star,1,spacex,tweet
+mars,LOC,2021-01-24,5 stars,5,spacex,tweet
+ocisly,ORG,2021-01-24,1 star,1,spacex,tweet
+scoop,PRODUCT,2021-01-24,1 star,1,spacex,tweet
+spacex,PERSON,2021-01-24,5 stars,5,spacex,tweet
+shouldn,NORP,2021-01-24,2 stars,2,spacex,tweet
+covid,GPE,2021-01-24,2 stars,2,spacex,tweet
+antarctica,LOC,2021-01-24,5 stars,5,spacex,tweet
+satelites,LOC,2021-01-24,1 star,1,spacex,tweet
+florida,GPE,2021-01-24,1 star,1,spacex,tweet
+mother nature,PERSON,2021-01-23,5 stars,5,spacex,tweet
+india,GPE,2021-01-23,3 stars,3,spacex,tweet
+f9,ORG,2021-01-23,3 stars,3,spacex,tweet
+india,GPE,2021-01-23,3 stars,3,spacex,tweet
+eta 2 actis,LOC,2021-01-23,4 stars,4,spacex,tweet
+kamino,PRODUCT,2021-01-23,4 stars,4,spacex,tweet
+don,PERSON,2021-01-23,4 stars,4,spacex,tweet
+obi wan kenobi,PERSON,2021-01-23,4 stars,4,spacex,tweet
+bernie,PERSON,2021-01-22,3 stars,3,spacex,tweet
+launch pad,FAC,2021-01-22,3 stars,3,spacex,tweet
+mars,LOC,2021-01-20,3 stars,3,spacex,tweet
+don,PERSON,2021-01-20,3 stars,3,spacex,tweet
+earth,LOC,2021-01-20,3 stars,3,spacex,tweet
+wen hop,PERSON,2021-01-20,5 stars,5,spacex,tweet
+don,PERSON,2021-01-20,2 stars,2,spacex,tweet
+atlantic,LOC,2021-01-20,5 stars,5,spacex,tweet
+8th,ORDINAL,2021-01-20,5 stars,5,spacex,tweet
+8th,ORDINAL,2021-01-20,1 star,1,spacex,tweet
+first,ORDINAL,2021-01-20,5 stars,5,spacex,tweet
+8th,ORDINAL,2021-01-20,5 stars,5,spacex,tweet
+twitter,PRODUCT,2021-01-20,5 stars,5,spacex,tweet
+spacex,ORG,2021-01-20,5 stars,5,spacex,tweet
+starlink,GPE,2021-01-20,5 stars,5,spacex,tweet
+black starlinks matter,PERSON,2021-01-20,5 stars,5,spacex,tweet
+greetings from antarctica ,ORG,2021-01-20,5 stars,5,spacex,tweet
+trump,PERSON,2021-01-20,1 star,1,spacex,tweet
+kthx,ORG,2021-01-19,1 star,1,spacex,tweet
+spacex,ORG,2021-01-19,4 stars,4,spacex,tweet
+eighth,ORDINAL,2021-01-19,4 stars,4,spacex,tweet
+starlink,GPE,2021-01-19,4 stars,4,spacex,tweet
+oooo upstaging,PERSON,2021-01-19,3 stars,3,spacex,tweet
+boo,ORG,2021-01-18,5 stars,5,spacex,tweet
+trump,PERSON,2021-01-18,5 stars,5,spacex,tweet
+nasa,ORG,2021-01-14,5 stars,5,spacex,tweet
+station memlekete,GPE,2021-01-14,1 star,1,spacex,tweet
+gooo,ORG,2021-01-14,5 stars,5,spacex,tweet
+huger,ORG,2021-01-14,1 star,1,spacex,tweet
+whoooo,ORG,2021-01-14,5 stars,5,spacex,tweet
+pics,ORG,2021-01-14,1 star,1,spacex,tweet
+america,GPE,2021-01-14,5 stars,5,spacex,tweet
+kapan,GPE,2021-01-14,5 stars,5,spacex,tweet
+space station,FAC,2021-01-14,4 stars,4,spacex,tweet
+dodge,ORG,2021-01-14,5 stars,5,spacex,tweet
+station pever,PERSON,2021-01-12,3 stars,3,spacex,tweet
+earth ,LOC,2021-01-12,5 stars,5,spacex,tweet
+earth,LOC,2021-01-12,5 stars,5,spacex,tweet
+dracos,PRODUCT,2021-01-12,1 star,1,spacex,tweet
+deorbit,NORP,2021-01-12,1 star,1,spacex,tweet
+first,ORDINAL,2021-01-12,5 stars,5,spacex,tweet
+us defense,ORG,2021-01-12,2 stars,2,spacex,tweet
+trump,PRODUCT,2021-01-12,2 stars,2,spacex,tweet
+50th,ORDINAL,2021-01-08,3 stars,3,spacex,tweet
+5th,ORDINAL,2021-01-08,3 stars,3,spacex,tweet
+50th,ORDINAL,2021-01-08,1 star,1,spacex,tweet
+turksat,ORG,2021-01-08,4 stars,4,spacex,tweet
+armenian,NORP,2021-01-08,4 stars,4,spacex,tweet
+turkey,GPE,2021-01-08,1 star,1,spacex,tweet
+airbus,ORG,2021-01-08,4 stars,4,spacex,tweet
+turkish,NORP,2021-01-08,4 stars,4,spacex,tweet
+turkiye,GPE,2021-01-08,5 stars,5,spacex,tweet
+hidden figures,WORK_OF_ART,2021-01-08,4 stars,4,spacex,tweet
+congrats spacex,PERSON,2021-01-08,4 stars,4,spacex,tweet
+mars,LOC,2021-01-09,2 stars,2,spacex,tweet
+erdogan,PERSON,2021-01-08,4 stars,4,spacex,tweet
+guzel kullann,ORG,2021-01-08,4 stars,4,spacex,tweet
+sagn solunu cizdirmeyin,PERSON,2021-01-08,4 stars,4,spacex,tweet
+trump,PERSON,2021-01-08,5 stars,5,spacex,tweet
+earth,LOC,2021-01-08,5 stars,5,spacex,tweet
+ios,ORG,2021-01-08,4 stars,4,spacex,tweet
+roketi neden,PERSON,2021-01-07,1 star,1,spacex,tweet
+roket mi yapyorsunuz,PERSON,2021-01-07,1 star,1,spacex,tweet
+sahibinden,GPE,2021-01-07,1 star,1,spacex,tweet
+az,GPE,2021-01-07,1 star,1,spacex,tweet
+yakar,PERSON,2021-01-07,1 star,1,spacex,tweet
+cok kacar falcon,ORG,2021-01-07,1 star,1,spacex,tweet
+kendimiz gonderemiyoruz,ORG,2021-01-07,5 stars,5,spacex,tweet
+first,ORDINAL,2021-01-07,5 stars,5,spacex,tweet
+spacex,PERSON,2020-12-24,5 stars,5,spacex,tweet
+mars,LOC,2020-12-24,5 stars,5,spacex,tweet
+the moon mars,LOC,2020-12-24,5 stars,5,spacex,tweet
+nice,GPE,2020-12-21,3 stars,3,spacex,tweet
+front row white zip,ORG,2020-12-21,5 stars,5,spacex,tweet
+spacex,ORG,2020-12-21,5 stars,5,spacex,tweet
+first,ORDINAL,2020-12-20,3 stars,3,spacex,tweet
+nicee,PERSON,2020-12-20,5 stars,5,spacex,tweet
+spacex,PERSON,2020-12-20,5 stars,5,spacex,tweet
+nigeria,GPE,2021-01-02,4 stars,4,spacex,tweet
+please,WORK_OF_ART,2021-01-02,4 stars,4,spacex,tweet
+africa,LOC,2021-01-02,4 stars,4,spacex,tweet
+gbenga adebambo,PERSON,2021-01-02,4 stars,4,spacex,tweet
+isaac asimov,PERSON,2020-12-19,4 stars,4,spacex,tweet
+vs falcon,PRODUCT,2020-12-19,5 stars,5,spacex,tweet
+rtls,ORG,2020-12-19,5 stars,5,spacex,tweet
+melania the immigrant musk,WORK_OF_ART,2020-12-19,5 stars,5,spacex,tweet
+70th,ORDINAL,2020-12-19,5 stars,5,spacex,tweet
+5th,ORDINAL,2020-12-19,5 stars,5,spacex,tweet
+vs falcon,PRODUCT,2020-12-19,5 stars,5,spacex,tweet
+rtls,ORG,2020-12-19,5 stars,5,spacex,tweet
+26th,ORDINAL,2020-12-19,5 stars,5,spacex,tweet
+spacex,ORG,2020-12-19,5 stars,5,spacex,tweet
+proper space travel,FAC,2020-12-19,5 stars,5,spacex,tweet
+bard idolise,PERSON,2020-12-19,5 stars,5,spacex,tweet
+godspeed falcon,ORG,2020-12-19,5 stars,5,spacex,tweet
+2020  103rd falcon,EVENT,2020-12-19,5 stars,5,spacex,tweet
+ ,LAW,2020-12-19,5 stars,5,spacex,tweet
+nro,ORG,2020-12-19,5 stars,5,spacex,tweet
+5th,ORDINAL,2020-12-19,5 stars,5,spacex,tweet
+second,ORDINAL,2020-12-19,2 stars,2,spacex,tweet
+spacex,ORG,2020-12-18,4 stars,4,spacex,tweet
+26th,ORDINAL,2020-12-18,5 stars,5,spacex,tweet
+spacex,ORG,2020-12-18,5 stars,5,spacex,tweet
+falcon,ORG,2020-12-17,5 stars,5,spacex,tweet
+go falcon,ORG,2020-12-17,5 stars,5,spacex,tweet
+uk,GPE,2020-12-17,1 star,1,spacex,tweet
+gmt,PRODUCT,2020-12-17,5 stars,5,spacex,tweet
+uk,GPE,2020-12-17,3 stars,3,spacex,tweet
+69th,ORDINAL,2020-12-13,1 star,1,spacex,tweet
+cape canaveral,GPE,2020-12-13,5 stars,5,spacex,tweet
+vs falcon,PRODUCT,2020-12-13,5 stars,5,spacex,tweet
+rtls,ORG,2020-12-13,5 stars,5,spacex,tweet
+spacex,PERSON,2020-12-13,5 stars,5,spacex,tweet
+american,NORP,2020-12-13,5 stars,5,spacex,tweet
+69th,ORDINAL,2020-12-13,5 stars,5,spacex,tweet
+nice,GPE,2020-12-13,5 stars,5,spacex,tweet
+69th,ORDINAL,2020-12-13,5 stars,5,spacex,tweet
+spacex,ORG,2020-12-13,5 stars,5,spacex,tweet
+nice,GPE,2020-12-13,5 stars,5,spacex,tweet
+69th,ORDINAL,2020-12-13,5 stars,5,spacex,tweet
+69th,ORDINAL,2020-12-13,5 stars,5,spacex,tweet
+spacex,ORG,2020-12-13,5 stars,5,spacex,tweet
+orlando,GPE,2020-12-13,5 stars,5,spacex,tweet
+vs falcon,PRODUCT,2020-12-13,5 stars,5,spacex,tweet
+rtls,ORG,2020-12-13,5 stars,5,spacex,tweet
+spacex,PERSON,2020-12-13,5 stars,5,spacex,tweet
+mars,LOC,2020-12-13,5 stars,5,spacex,tweet
+gooo ,ORG,2020-12-13,5 stars,5,spacex,tweet
+7th,ORDINAL,2020-12-13,5 stars,5,spacex,tweet
+falcon,ORG,2020-12-13,5 stars,5,spacex,tweet
+spacex,PERSON,2020-12-13,5 stars,5,spacex,tweet
+mars,LOC,2020-12-13,5 stars,5,spacex,tweet
+69th,ORDINAL,2020-12-13,4 stars,4,spacex,tweet
+69th,ORDINAL,2020-12-11,1 star,1,spacex,tweet
+noo,ORG,2020-12-11,1 star,1,spacex,tweet
+spacex,ORG,2020-12-11,1 star,1,spacex,tweet
+69th,ORDINAL,2020-12-11,3 stars,3,spacex,tweet
+spacex,ORG,2020-12-11,3 stars,3,spacex,tweet
+p ain,PERSON,2020-12-11,1 star,1,spacex,tweet
+don,PERSON,2020-12-11,1 star,1,spacex,tweet
+spacex,PERSON,2020-12-11,5 stars,5,spacex,tweet
+mars,LOC,2020-12-11,5 stars,5,spacex,tweet
+sirius,ORG,2020-12-11,1 star,1,spacex,tweet
+spacex,PERSON,2020-12-11,5 stars,5,spacex,tweet
+utc,ORG,2020-12-11,1 star,1,spacex,tweet
+7th,ORDINAL,2020-12-11,5 stars,5,spacex,tweet
+first,ORDINAL,2020-12-11,5 stars,5,spacex,tweet
+spacex,PERSON,2020-12-11,5 stars,5,spacex,tweet
+mars,LOC,2020-12-10,1 star,1,spacex,tweet
+so proud,LAW,2020-12-10,5 stars,5,spacex,tweet
+nasa,ORG,2020-12-10,3 stars,3,spacex,tweet
+earth,LOC,2020-12-09,5 stars,5,spacex,tweet
+3rd,ORDINAL,2020-12-09,2 stars,2,spacex,tweet
+chuck,PERSON,2020-12-08,5 stars,5,spacex,tweet
+acho lindo isso,PERSON,2020-12-08,1 star,1,spacex,tweet
+station terra plana eles dizem,ORG,2020-12-08,1 star,1,spacex,tweet
+resilience,PERSON,2020-12-08,5 stars,5,spacex,tweet
+iss,ORG,2020-12-08,3 stars,3,spacex,tweet
+dragon 1,WORK_OF_ART,2020-12-08,3 stars,3,spacex,tweet
+nerdle,PERSON,2020-12-07,2 stars,2,spacex,tweet
+dragons,ORG,2020-12-07,5 stars,5,spacex,tweet
+space shuttle,PRODUCT,2020-12-07,2 stars,2,spacex,tweet
+iss,ORG,2020-12-07,2 stars,2,spacex,tweet
+lifter,PERSON,2020-12-07,1 star,1,spacex,tweet
+spacex,PERSON,2020-12-07,1 star,1,spacex,tweet
+falcon x 9 hl,ORG,2020-12-07,1 star,1,spacex,tweet
+second,ORDINAL,2020-12-07,5 stars,5,spacex,tweet
+100th,ORDINAL,2020-12-07,5 stars,5,spacex,tweet
+falcon 9,FAC,2020-12-07,5 stars,5,spacex,tweet
+super heavy,ORG,2020-12-07,5 stars,5,spacex,tweet
+merlin,PRODUCT,2020-12-07,5 stars,5,spacex,tweet
+station godspeed ,PRODUCT,2020-12-06,5 stars,5,spacex,tweet
+100th,ORDINAL,2020-12-06,5 stars,5,spacex,tweet
+first,ORDINAL,2020-12-06,5 stars,5,spacex,tweet
+falcon 9,PRODUCT,2020-12-06,5 stars,5,spacex,tweet
+100th,ORDINAL,2020-12-06,5 stars,5,spacex,tweet
+2nd,ORDINAL,2020-12-06,2 stars,2,spacex,tweet
+69th,ORDINAL,2020-12-06,3 stars,3,spacex,tweet
+spacex,PERSON,2020-12-06,5 stars,5,spacex,tweet
+american,NORP,2020-12-06,3 stars,3,spacex,tweet
+love,WORK_OF_ART,2020-12-06,1 star,1,spacex,tweet
+apollo,ORG,2020-12-06,5 stars,5,spacex,tweet
+elon musk,PERSON,2020-12-06,1 star,1,spacex,tweet
+america,GPE,2020-12-06,1 star,1,spacex,tweet
+fifth,ORDINAL,2020-12-06,4 stars,4,spacex,tweet
+second,ORDINAL,2020-12-06,3 stars,3,spacex,tweet
+cinnabon,ORG,2020-12-06,5 stars,5,spacex,tweet
+nazi,NORP,2020-11-25,1 star,1,spacex,tweet
+starlink,GPE,2020-11-25,5 stars,5,spacex,tweet
+7th,ORDINAL,2020-11-25,5 stars,5,spacex,tweet
+7th,ORDINAL,2020-11-25,5 stars,5,spacex,tweet
+7th,ORDINAL,2020-11-25,5 stars,5,spacex,tweet
+100th,ORDINAL,2020-11-25,5 stars,5,spacex,tweet
+merlin,PRODUCT,2020-11-25,1 star,1,spacex,tweet
+india,GPE,2020-11-25,5 stars,5,spacex,tweet
+sriharikota,LOC,2020-11-25,5 stars,5,spacex,tweet
+isro,ORG,2020-11-25,5 stars,5,spacex,tweet
+the polar satellite launch vehicle pslv,ORG,2020-11-25,5 stars,5,spacex,tweet
+39th,ORDINAL,2020-11-25,5 stars,5,spacex,tweet
+estan,ORG,2020-11-25,1 star,1,spacex,tweet
+asco,ORG,2020-11-25,1 star,1,spacex,tweet
+500kbps,PERSON,2020-11-25,1 star,1,spacex,tweet
+livestream,ORG,2020-11-25,4 stars,4,spacex,tweet
+east coast,LOC,2020-11-23,3 stars,3,spacex,tweet
+utc,ORG,2020-11-23,3 stars,3,spacex,tweet
+nooooo l,PRODUCT,2020-11-23,1 star,1,spacex,tweet
+8th,ORDINAL,2021-08-26,5 stars,5,vg,tweet
+18th,ORDINAL,2021-08-26,5 stars,5,vg,tweet
+utc live,ORG,2021-07-20,1 star,1,vg,tweet
+karman,NORP,2021-07-09,4 stars,4,vg,tweet
+blue origins,ORG,2021-06-12,1 star,1,vg,tweet
+first,ORDINAL,2021-06-12,1 star,1,vg,tweet
+mark a,PERSON,2021-06-12,1 star,1,vg,tweet
+jeff bezos,PERSON,2021-06-12,1 star,1,vg,tweet
+first,ORDINAL,2021-06-12,1 star,1,vg,tweet
+utc,ORG,2021-06-12,1 star,1,vg,tweet
+first,ORDINAL,2021-06-11,1 star,1,vg,tweet
+utc,ORG,2021-06-11,1 star,1,vg,tweet
+mark,PERSON,2021-06-07,4 stars,4,vg,tweet
+instagram,ORG,2021-06-07,4 stars,4,vg,tweet
+jeff bezos,PERSON,2021-06-07,4 stars,4,vg,tweet
+first,ORDINAL,2021-06-07,4 stars,4,vg,tweet
+new shepards,ORG,2021-06-07,4 stars,4,vg,tweet
+the human landing system,ORG,2021-05-27,3 stars,3,vg,tweet
+the national team,ORG,2021-05-27,3 stars,3,vg,tweet
+huntsville alabama,GPE,2021-02-09,5 stars,5,vg,tweet
+moon,PERSON,2021-02-09,5 stars,5,vg,tweet
+america,GPE,2021-02-09,5 stars,5,vg,tweet
+launch site,ORG,2021-01-14,1 star,1,vg,tweet
+utc,ORG,2021-01-14,1 star,1,vg,tweet
+technology a,ORG,2020-09-22,4 stars,4,vg,tweet
+karman,NORP,2019-12-11,1 star,1,vg,tweet
+8th,ORDINAL,2021-08-26,5 stars,5,vg,tweet
+18th,ORDINAL,2021-08-26,5 stars,5,vg,tweet
+cj sturckow,PERSON,2021-05-24,5 stars,5,bo,tweet
+dave mackay,PERSON,2021-05-24,5 stars,5,bo,tweet
+new mexico,GPE,2021-05-22,5 stars,5,bo,tweet
+spaceport america,LOC,2021-05-22,5 stars,5,bo,tweet
+new mexico,GPE,2021-05-22,5 stars,5,bo,tweet
+spaceport america,LOC,2021-05-22,5 stars,5,bo,tweet
+iyer,PERSON,2021-02-25,4 stars,4,bo,tweet
+aerospace systems and engineering leadership,ORG,2021-02-25,4 stars,4,bo,tweet
+aerospace systems,ORG,2021-02-25,4 stars,4,bo,tweet
+virgin galactic,ORG,2021-02-25,4 stars,4,bo,tweet
+first,ORDINAL,2021-02-23,5 stars,5,bo,tweet
+the u s,FAC,2021-02-23,5 stars,5,bo,tweet
+mars,LOC,2021-02-18,5 stars,5,bo,tweet
+the virgin galactic space advisory board,ORG,2021-02-09,4 stars,4,bo,tweet
+earth,LOC,2021-02-06,5 stars,5,bo,tweet
+spaceshiptwo unitys,ORG,2021-02-06,5 stars,5,bo,tweet
+unity,ORG,2021-02-05,5 stars,5,bo,tweet
+unity with valentines day,WORK_OF_ART,2021-02-05,5 stars,5,bo,tweet
+galactic unite,ORG,2021-02-03,5 stars,5,bo,tweet
+virgin galactic,ORG,2021-02-03,5 stars,5,bo,tweet
+spaceshiptwo unity,ORG,2021-02-01,4 stars,4,bo,tweet
+new mexico,GPE,2021-02-01,4 stars,4,bo,tweet
+spaceport america,LOC,2021-02-01,4 stars,4,bo,tweet
+vms eve,WORK_OF_ART,2021-01-22,5 stars,5,bo,tweet
+new mexico,GPE,2021-01-22,5 stars,5,bo,tweet
+branson,GPE,2021-01-11,5 stars,5,bo,tweet
+no virgin galactic,ORG,2021-01-11,5 stars,5,bo,tweet
+eve branson,PERSON,2021-01-11,5 stars,5,bo,tweet
+form s 3,ORG,2020-12-18,1 star,1,bo,tweet
+virgin galactic,ORG,2020-12-18,1 star,1,bo,tweet
+michael colglazier,PERSON,2020-12-12,5 stars,5,bo,tweet
+cj sturckow cj,PERSON,2020-12-12,4 stars,4,bo,tweet
+nasa,ORG,2020-12-12,4 stars,4,bo,tweet
+fl,GPE,2020-12-12,4 stars,4,bo,tweet
+sixth,ORDINAL,2020-12-12,4 stars,4,bo,tweet
+spaceshiptwo unity,ORG,2020-12-12,4 stars,4,bo,tweet
+new mexico,GPE,2020-12-12,4 stars,4,bo,tweet
+spaceport america,LOC,2020-12-12,4 stars,4,bo,tweet
+first,ORDINAL,2020-12-12,4 stars,4,bo,tweet
+space missions and safety,ORG,2020-11-02,5 stars,5,bo,tweet
+first,ORDINAL,2020-11-02,5 stars,5,bo,tweet
+new mexico,GPE,2020-11-02,5 stars,5,bo,tweet
+spaceport america,LOC,2020-11-02,5 stars,5,bo,tweet
+the virgin galactic pilot corps,ORG,2020-10-27,5 stars,5,bo,tweet
+patrick moran,PERSON,2020-10-27,5 stars,5,bo,tweet
+jameel janjua,PERSON,2020-10-27,5 stars,5,bo,tweet
+us,GPE,2020-10-22,5 stars,5,bo,tweet
+black leaders in aerospace scholarship,ORG,2020-10-22,5 stars,5,bo,tweet
+new mexico,GPE,2020-10-22,4 stars,4,bo,tweet
+first,ORDINAL,2020-10-14,4 stars,4,bo,tweet
+dr alan stern,PERSON,2020-10-14,4 stars,4,bo,tweet
+nasa,ORG,2020-10-14,4 stars,4,bo,tweet
+first,ORDINAL,2020-10-14,4 stars,4,bo,tweet
+spaceport america nm,FAC,2020-10-14,4 stars,4,bo,tweet
+mach,ORG,2020-08-03,4 stars,4,bo,tweet
+virgin galactic,ORG,2020-08-03,4 stars,4,bo,tweet
+earth,LOC,2020-07-27,5 stars,5,bo,tweet
+michael colglazier,PERSON,2020-07-15,4 stars,4,bo,tweet
+earth,LOC,2020-07-02,5 stars,5,bo,tweet
+future astronauts,ORG,2020-07-02,5 stars,5,bo,tweet
+new mexico read,GPE,2020-06-25,4 stars,4,bo,tweet
+spaceshiptwo unity,ORG,2020-06-25,4 stars,4,bo,tweet
+new mexico,GPE,2020-06-25,4 stars,4,bo,tweet
+spaceport america,LOC,2020-06-25,4 stars,4,bo,tweet
+spaceshiptwo unity,ORG,2020-06-25,4 stars,4,bo,tweet
+new mexico,GPE,2020-06-25,4 stars,4,bo,tweet
+vms eve,WORK_OF_ART,2020-06-25,4 stars,4,bo,tweet
+spaceport america,LOC,2020-06-25,4 stars,4,bo,tweet
+nasa,ORG,2020-06-23,4 stars,4,bo,tweet
+a space act agreement,LAW,2020-06-22,4 stars,4,bo,tweet
+private orbital spaceflight,ORG,2020-06-22,4 stars,4,bo,tweet
+new mexico,GPE,2020-04-28,5 stars,5,bo,tweet
+new mexico,GPE,2020-04-28,5 stars,5,bo,tweet
+a space act agreement,LAW,2020-04-27,5 stars,5,bo,tweet
+mission updates,ORG,2020-02-25,1 star,1,bo,tweet
+register,ORG,2020-02-25,1 star,1,bo,tweet
+nm,GPE,2020-02-14,4 stars,4,bo,tweet
+spaceshiptwo,ORG,2020-02-14,4 stars,4,bo,tweet
+mission specialists,ORG,2019-10-16,5 stars,5,bo,tweet
+bill,PERSON,2021-08-02,5 stars,5,spacex,facebook
+bill lattimer,PERSON,2021-08-02,5 stars,5,spacex,facebook
+bill,PERSON,2021-08-02,5 stars,5,spacex,facebook
+alex wright,PERSON,2021-08-02,1 star,1,spacex,facebook
+don,PERSON,2021-08-02,1 star,1,spacex,facebook
+todd grzywacz different,PERSON,2021-07-21,4 stars,4,spacex,facebook
+spacex,ORG,2021-07-21,5 stars,5,spacex,facebook
+love,WORK_OF_ART,2021-07-21,5 stars,5,spacex,facebook
+spacex,PERSON,2021-07-21,5 stars,5,spacex,facebook
+bezos,PRODUCT,2021-07-21,4 stars,4,spacex,facebook
+branson,GPE,2021-07-21,4 stars,4,spacex,facebook
+musk,PRODUCT,2021-07-21,4 stars,4,spacex,facebook
+jd,PERSON,2021-07-21,4 stars,4,spacex,facebook
+spacex,PERSON,2021-07-21,5 stars,5,spacex,facebook
+elon,ORG,2021-07-21,4 stars,4,spacex,facebook
+deep space,ORG,2021-07-21,4 stars,4,spacex,facebook
+gateway,ORG,2021-07-21,4 stars,4,spacex,facebook
+wll,ORG,2021-07-21,5 stars,5,spacex,facebook
+hyperloop transportation technologies inc also,ORG,2021-07-24,4 stars,4,spacex,facebook
+exaust,ORG,2021-07-24,4 stars,4,spacex,facebook
+awesomeeeee ,PERSON,2021-02-17,5 stars,5,spacex,facebook
+mike watts,PERSON,2021-01-30,4 stars,4,spacex,facebook
+saturn,PRODUCT,2021-01-30,4 stars,4,spacex,facebook
+nasa,ORG,2021-01-30,4 stars,4,spacex,facebook
+youtube,ORG,2021-01-30,4 stars,4,spacex,facebook
+nicolas,PERSON,2021-01-31,3 stars,3,spacex,facebook
+mary angela white burnard,PERSON,2021-01-31,3 stars,3,spacex,facebook
+christian navarro,PERSON,2021-01-30,5 stars,5,spacex,facebook
+kenneth wood,PERSON,2020-12-12,3 stars,3,spacex,facebook
+time,ORG,2020-12-12,3 stars,3,spacex,facebook
+kenya,GPE,2021-06-18,4 stars,4,spacex,facebook
+kasao,GPE,2021-06-18,4 stars,4,spacex,facebook
+stage one,ORG,2021-06-18,5 stars,5,spacex,facebook
+mexican,NORP,2021-06-21,1 star,1,spacex,facebook
+3000 dollars,MONEY,2021-06-21,1 star,1,spacex,facebook
+banco azteca,ORG,2021-06-21,1 star,1,spacex,facebook
+quantum nanochips optical,ORG,2021-06-21,1 star,1,spacex,facebook
+mexico,GPE,2021-06-21,1 star,1,spacex,facebook
+pbit,NORP,2021-06-21,1 star,1,spacex,facebook
+second,ORDINAL,2021-06-18,1 star,1,spacex,facebook
+2nd,ORDINAL,2021-06-18,4 stars,4,spacex,facebook
+spacex,PERSON,2021-06-18,3 stars,3,spacex,facebook
+earth,LOC,2021-06-18,3 stars,3,spacex,facebook
+earth,LOC,2021-06-18,5 stars,5,spacex,facebook
+spacex,ORG,2021-06-18,5 stars,5,spacex,facebook
+youtuber mais famosa,PERSON,2021-06-18,3 stars,3,spacex,facebook
+diana,PERSON,2021-06-18,3 stars,3,spacex,facebook
+universo,ORG,2021-06-18,3 stars,3,spacex,facebook
+mar fugir,PERSON,2021-06-18,3 stars,3,spacex,facebook
+da cabecuda,PERSON,2021-06-18,3 stars,3,spacex,facebook
+renascida e diferente terra cetentrional,ORG,2021-06-18,3 stars,3,spacex,facebook
+terra,LOC,2021-06-18,3 stars,3,spacex,facebook
+tao procurando meu lugar photoshopado,PERSON,2021-06-18,3 stars,3,spacex,facebook
+amo essa,PERSON,2021-06-18,3 stars,3,spacex,facebook
+johnny depp,PERSON,2021-07-13,4 stars,4,spacex,facebook
+mars,LOC,2021-07-13,4 stars,4,spacex,facebook
+asia,LOC,2021-06-18,1 star,1,spacex,facebook
+mike ybarra,PERSON,2021-06-18,1 star,1,spacex,facebook
+usa,GPE,2021-06-18,1 star,1,spacex,facebook
+bill gates,PERSON,2021-06-18,1 star,1,spacex,facebook
+europe,LOC,2021-06-18,1 star,1,spacex,facebook
+the middle east,LOC,2021-06-18,1 star,1,spacex,facebook
+russia,GPE,2021-06-18,1 star,1,spacex,facebook
+dave michaels,PERSON,2021-08-31,1 star,1,spacex,facebook
+mercury,ORG,2021-06-15,5 stars,5,spacex,facebook
+saturn,PRODUCT,2021-06-15,5 stars,5,spacex,facebook
+bozos,NORP,2021-06-15,3 stars,3,spacex,facebook
+spacex,PERSON,2021-06-15,3 stars,3,spacex,facebook
+elon musk,PERSON,2021-06-24,5 stars,5,spacex,facebook
+separo del cohete,ORG,2021-07-08,1 star,1,spacex,facebook
+dragon se,PERSON,2021-07-08,1 star,1,spacex,facebook
+la capsula,ORG,2021-07-08,1 star,1,spacex,facebook
+mars,LOC,2021-07-08,1 star,1,spacex,facebook
+china,GPE,2021-07-08,1 star,1,spacex,facebook
+russia,GPE,2021-07-08,1 star,1,spacex,facebook
+jupiter,LOC,2021-06-07,5 stars,5,spacex,facebook
+watta,PERSON,2021-06-05,4 stars,4,spacex,facebook
+earth,LOC,2021-06-10,2 stars,2,spacex,facebook
+engine,ORG,2021-06-10,2 stars,2,spacex,facebook
+machanic,ORG,2021-06-10,2 stars,2,spacex,facebook
+asia russia,LOC,2021-06-12,1 star,1,spacex,facebook
+don,PERSON,2021-06-12,1 star,1,spacex,facebook
+microsoft,ORG,2021-06-12,1 star,1,spacex,facebook
+steven,PERSON,2021-06-09,1 star,1,spacex,facebook
+elon musk or,PERSON,2021-06-09,1 star,1,spacex,facebook
+microsoft,ORG,2021-06-09,1 star,1,spacex,facebook
+bill gates,PERSON,2021-06-09,1 star,1,spacex,facebook
+scottish,NORP,2021-06-09,1 star,1,spacex,facebook
+vikings,NORP,2021-06-09,1 star,1,spacex,facebook
+don,PERSON,2021-06-09,2 stars,2,spacex,facebook
+asia russia,LOC,2021-06-12,1 star,1,spacex,facebook
+don,PERSON,2021-06-12,1 star,1,spacex,facebook
+microsoft,ORG,2021-06-12,1 star,1,spacex,facebook
+steven,PERSON,2021-06-09,1 star,1,spacex,facebook
+elon musk or,PERSON,2021-06-09,1 star,1,spacex,facebook
+microsoft,ORG,2021-06-09,1 star,1,spacex,facebook
+bill gates,PERSON,2021-06-09,1 star,1,spacex,facebook
+scottish,NORP,2021-06-09,1 star,1,spacex,facebook
+vikings,NORP,2021-06-09,1 star,1,spacex,facebook
+baddrul hezri manspeed,ORG,2021-04-23,5 stars,5,spacex,facebook
+shashika lakshan,PERSON,2021-04-23,5 stars,5,spacex,facebook
+melbourne beach getting,GPE,2021-04-23,5 stars,5,spacex,facebook
+boynton beach fl,GPE,2021-04-23,5 stars,5,spacex,facebook
+sumter south carolina,GPE,2021-04-23,4 stars,4,spacex,facebook
+valrico fl,GPE,2021-04-23,4 stars,4,spacex,facebook
+gainesville,GPE,2021-04-23,5 stars,5,spacex,facebook
+epa,ORG,2021-04-23,4 stars,4,spacex,facebook
+syria,GPE,2021-04-23,1 star,1,spacex,facebook
+sci fi movie,ORG,2021-04-23,1 star,1,spacex,facebook
+pennsylvania,GPE,2021-04-23,5 stars,5,spacex,facebook
+saint pete fl,PERSON,2021-04-23,5 stars,5,spacex,facebook
+alaska,GPE,2021-04-23,5 stars,5,spacex,facebook
+kerala,GPE,2021-04-23,5 stars,5,spacex,facebook
+india,GPE,2021-04-23,5 stars,5,spacex,facebook
+grande s tecnologia s,ORG,2021-04-23,5 stars,5,spacex,facebook
+spacex,ORG,2021-04-25,5 stars,5,spacex,facebook
+carsten michael petersen jrgen,PERSON,2021-04-24,4 stars,4,spacex,facebook
+bork casper friis pedersen vilde billeder,PERSON,2021-04-24,4 stars,4,spacex,facebook
+crew dragon,PRODUCT,2021-04-23,5 stars,5,spacex,facebook
+epopee,PERSON,2021-04-23,5 stars,5,spacex,facebook
+navy,ORG,2021-04-23,1 star,1,spacex,facebook
+czemu lataja w gumiakach,ORG,2021-04-26,1 star,1,spacex,facebook
+nota,ORG,2021-04-26,5 stars,5,spacex,facebook
+mike ybarra,PERSON,2021-04-23,1 star,1,spacex,facebook
+steven,PERSON,2021-04-23,1 star,1,spacex,facebook
+elon musk steven,PERSON,2021-04-23,1 star,1,spacex,facebook
+bill gates,PERSON,2021-04-23,1 star,1,spacex,facebook
+don,PERSON,2021-04-23,1 star,1,spacex,facebook
+godspeed,PERSON,2021-04-23,5 stars,5,spacex,facebook
+3rd,ORDINAL,2021-04-23,5 stars,5,spacex,facebook
+godspeed,PERSON,2021-04-23,5 stars,5,spacex,facebook
+love,WORK_OF_ART,2021-03-17,5 stars,5,spacex,facebook
+arizona,GPE,2021-03-17,5 stars,5,spacex,facebook
+crystalann,ORG,2021-03-17,5 stars,5,spacex,facebook
+scott linda mark aka,PERSON,2021-03-17,5 stars,5,spacex,facebook
+john fitzpatrick ii,PERSON,2021-03-14,3 stars,3,spacex,facebook
+pennsville nj,GPE,2021-03-14,3 stars,3,spacex,facebook
+cleopatra needle nyc,FAC,2021-03-15,4 stars,4,spacex,facebook
+alice,PERSON,2021-03-15,4 stars,4,spacex,facebook
+central park,LOC,2021-03-15,4 stars,4,spacex,facebook
+tice central park contest practice,FAC,2021-03-15,4 stars,4,spacex,facebook
+elon,PERSON,2021-03-14,5 stars,5,spacex,facebook
+yusaku maezawa,PERSON,2021-03-19,1 star,1,spacex,facebook
+kaiden smith,PERSON,2021-04-07,4 stars,4,spacex,facebook
+deirdre ohalloran,PERSON,2021-03-18,3 stars,3,spacex,facebook
+linda mark aka,PERSON,2021-03-17,5 stars,5,spacex,facebook
+navajas de obsidiana prehispanica,ORG,2021-03-26,5 stars,5,spacex,facebook
+como lograron,ORG,2021-03-26,5 stars,5,spacex,facebook
+tras,PERSON,2021-03-26,4 stars,4,spacex,facebook
+como se logro,PERSON,2021-03-26,4 stars,4,spacex,facebook
+pedazos en una area de,ORG,2021-03-26,4 stars,4,spacex,facebook
+tanto tiempo,ORG,2021-03-26,4 stars,4,spacex,facebook
+arctic sea ice,LOC,2021-03-21,3 stars,3,spacex,facebook
+uk,GPE,2021-04-07,1 star,1,spacex,facebook
+usa,GPE,2021-04-07,1 star,1,spacex,facebook
+superman,PERSON,2021-04-07,1 star,1,spacex,facebook
+bill gates,PERSON,2021-04-12,1 star,1,spacex,facebook
+elon musk,PERSON,2021-04-12,1 star,1,spacex,facebook
+mike ybarra,PERSON,2021-04-12,1 star,1,spacex,facebook
+steven,PERSON,2021-04-12,1 star,1,spacex,facebook
+fully insured cryptocurrency exchange,ORG,2021-03-22,1 star,1,spacex,facebook
+development centrer  mining farm,ORG,2021-03-22,1 star,1,spacex,facebook
+data centrer,ORG,2021-03-22,1 star,1,spacex,facebook
+dubai,GPE,2021-03-22,1 star,1,spacex,facebook
+maria,PERSON,2021-04-08,1 star,1,spacex,facebook
+elon musk,PERSON,2021-04-08,1 star,1,spacex,facebook
+starlink,ORG,2021-06-28,5 stars,5,spacex,facebook
+lafollete,GPE,2021-06-28,5 stars,5,spacex,facebook
+trisha rodrick,PERSON,2021-04-27,1 star,1,spacex,facebook
+whatsapp,ORG,2021-04-27,1 star,1,spacex,facebook
+first,ORDINAL,2021-04-27,1 star,1,spacex,facebook
+fino osorio,PERSON,2021-03-15,3 stars,3,spacex,facebook
+mark o w rice got,PERSON,2021-03-25,5 stars,5,spacex,facebook
+lyra hutchins,PERSON,2021-06-02,4 stars,4,spacex,facebook
+romania,GPE,2021-04-24,5 stars,5,spacex,facebook
+space x,WORK_OF_ART,2021-04-23,3 stars,3,spacex,facebook
+first,ORDINAL,2021-04-23,3 stars,3,spacex,facebook
+mars,LOC,2021-04-23,3 stars,3,spacex,facebook
+flint,GPE,2021-04-23,3 stars,3,spacex,facebook
+french,NORP,2021-04-23,1 star,1,spacex,facebook
+thomas pesquet,PERSON,2021-04-23,1 star,1,spacex,facebook
+spacex elon spacex,ORG,2021-04-23,1 star,1,spacex,facebook
+mars,LOC,2021-04-23,1 star,1,spacex,facebook
+earth,LOC,2021-04-23,1 star,1,spacex,facebook
+universe,ORG,2021-04-23,1 star,1,spacex,facebook
+nasa,ORG,2021-04-23,1 star,1,spacex,facebook
+moon,PERSON,2021-04-23,1 star,1,spacex,facebook
+elon musk,PERSON,2021-04-23,1 star,1,spacex,facebook
+2nd,ORDINAL,2021-04-23,5 stars,5,spacex,facebook
+starlink,ORG,2021-08-29,5 stars,5,spacex,facebook
+jessie anderson,PERSON,2021-08-29,5 stars,5,spacex,facebook
+jessie,PERSON,2021-08-29,5 stars,5,spacex,facebook
+asia russia,LOC,2021-06-12,1 star,1,spacex,facebook
+don,PERSON,2021-06-12,1 star,1,spacex,facebook
+microsoft,ORG,2021-06-12,1 star,1,spacex,facebook
+vinicius de souza barreira,PERSON,2021-07-01,5 stars,5,spacex,facebook
+earth,LOC,2021-07-01,5 stars,5,spacex,facebook
+starlink,ORG,2021-07-01,5 stars,5,spacex,facebook
+8th,ORDINAL,2021-07-01,5 stars,5,spacex,facebook
+omuamua,PRODUCT,2021-07-01,4 stars,4,spacex,facebook
+89th,ORDINAL,2021-07-01,1 star,1,spacex,facebook
+ula,PERSON,2021-07-01,1 star,1,spacex,facebook
+buck rogers,PERSON,2021-07-03,5 stars,5,spacex,facebook
+bezos,PERSON,2021-07-02,3 stars,3,spacex,facebook
+branson,GPE,2021-07-02,3 stars,3,spacex,facebook
+wooow woow woow,PERSON,2021-07-01,5 stars,5,spacex,facebook
+spacex,ORG,2021-07-02,5 stars,5,spacex,facebook
+awesome,ORG,2021-07-02,5 stars,5,spacex,facebook
+spacex falcon 9,WORK_OF_ART,2021-07-02,5 stars,5,spacex,facebook
+christian day,EVENT,2021-07-02,5 stars,5,spacex,facebook
+mars,LOC,2021-07-01,5 stars,5,spacex,facebook
+lz,ORG,2021-07-01,1 star,1,spacex,facebook
+first,ORDINAL,2021-07-01,4 stars,4,spacex,facebook
+marizete santos acompanhe ao vivo,PERSON,2021-07-01,5 stars,5,spacex,facebook
+europa,LOC,2021-07-01,1 star,1,spacex,facebook
+syfy,ORG,2021-07-01,5 stars,5,spacex,facebook
+wowwww,ORG,2021-07-01,5 stars,5,spacex,facebook
+kathleen isidorio,PERSON,2021-07-01,5 stars,5,spacex,facebook
+nice elon,PERSON,2021-07-01,5 stars,5,spacex,facebook
+fantastic,NORP,2021-07-01,5 stars,5,spacex,facebook
+ta daa,PERSON,2021-07-01,3 stars,3,spacex,facebook
+second,ORDINAL,2021-06-04,3 stars,3,spacex,facebook
+the canada arm,ORG,2021-06-04,3 stars,3,spacex,facebook
+iss,ORG,2021-06-04,3 stars,3,spacex,facebook
+aterrizaje impactante emocionante,PERSON,2021-09-01,5 stars,5,spacex,facebook
+swiss,NORP,2021-09-02,5 stars,5,spacex,facebook
+elon,PERSON,2021-09-01,5 stars,5,spacex,facebook
+spacex,ORG,2021-09-01,5 stars,5,spacex,facebook
+jd,PERSON,2021-09-01,5 stars,5,spacex,facebook
+el primer video que veo y sale en condiciones,ORG,2021-09-01,2 stars,2,spacex,facebook
+y el,GPE,2021-09-01,2 stars,2,spacex,facebook
+lazer,ORG,2021-09-01,5 stars,5,spacex,facebook
+apollo,ORG,2021-09-01,5 stars,5,spacex,facebook
+russ rowe,PERSON,2021-09-01,5 stars,5,spacex,facebook
+russ rowe,PERSON,2021-09-01,5 stars,5,spacex,facebook
+honda,ORG,2021-07-27,5 stars,5,spacex,facebook
+blackpink,PERSON,2021-07-27,4 stars,4,spacex,facebook
+shoutout,PERSON,2021-07-27,2 stars,2,spacex,facebook
+maravilla de ekipo,ORG,2021-07-27,5 stars,5,spacex,facebook
+kellogs,ORG,2021-07-28,1 star,1,spacex,facebook
+beautyful,PERSON,2021-08-04,5 stars,5,spacex,facebook
+gareth boiling imb,PERSON,2021-07-16,5 stars,5,spacex,facebook
+grey area,LOC,2021-07-16,5 stars,5,spacex,facebook
+leigh johnson,PERSON,2021-07-16,5 stars,5,spacex,facebook
+atlantis,PRODUCT,2021-07-16,4 stars,4,spacex,facebook
+usb,ORG,2021-07-19,4 stars,4,spacex,facebook
+usb,ORG,2021-07-19,4 stars,4,spacex,facebook
+devin marston,PERSON,2021-07-17,3 stars,3,spacex,facebook
+photon ion,PRODUCT,2021-07-17,3 stars,3,spacex,facebook
+spacex,ORG,2021-08-16,5 stars,5,spacex,facebook
+ellon,PRODUCT,2021-08-16,5 stars,5,spacex,facebook
+love,WORK_OF_ART,2021-08-17,5 stars,5,spacex,facebook
+don,PERSON,2021-08-17,5 stars,5,spacex,facebook
+nigeria,GPE,2021-08-16,5 stars,5,spacex,facebook
+malta,GPE,2021-08-31,5 stars,5,spacex,facebook
+piotr przeklasa,PERSON,2021-08-16,5 stars,5,spacex,facebook
+mars,LOC,2021-06-25,5 stars,5,spacex,facebook
+dubai,GPE,2021-06-26,5 stars,5,spacex,facebook
+yall,PRODUCT,2021-07-10,5 stars,5,spacex,facebook
+mars,LOC,2021-06-21,5 stars,5,spacex,facebook
+hola darlings,ORG,2021-07-05,5 stars,5,spacex,facebook
+te amo meu amor,PERSON,2021-06-24,5 stars,5,spacex,facebook
+peter stueckradt,PERSON,2021-08-07,5 stars,5,spacex,facebook
+derek kammeraad,PERSON,2021-08-07,1 star,1,spacex,facebook
+alfredo garcia jurado orozco,PERSON,2021-08-07,5 stars,5,spacex,facebook
+walid elkadi,PERSON,2021-08-08,1 star,1,spacex,facebook
+bob lazar,PERSON,2021-08-08,1 star,1,spacex,facebook
+james j williams,PERSON,2021-08-07,2 stars,2,spacex,facebook
+mars,LOC,2021-08-07,1 star,1,spacex,facebook
+enterprise,ORG,2021-08-06,1 star,1,spacex,facebook
+musk,PERSON,2021-08-07,5 stars,5,spacex,facebook
+arbys,ORG,2021-08-06,5 stars,5,spacex,facebook
+branson,GPE,2021-08-07,3 stars,3,spacex,facebook
+bezos,PRODUCT,2021-08-07,3 stars,3,spacex,facebook
+ksp musk,ORG,2021-08-07,3 stars,3,spacex,facebook
+elon,ORG,2021-08-07,5 stars,5,spacex,facebook
+ojala salga,PERSON,2021-08-06,5 stars,5,spacex,facebook
+nasa,ORG,2020-09-08,1 star,1,spacex,facebook
+leetsss goooo,ORG,2021-08-04,5 stars,5,spacex,facebook
+don,PERSON,2020-11-12,5 stars,5,spacex,facebook
+maria,PERSON,2021-04-09,2 stars,2,spacex,facebook
+don,PERSON,2021-04-09,2 stars,2,spacex,facebook
+steven,PERSON,2021-04-09,2 stars,2,spacex,facebook
+second,ORDINAL,2021-07-14,2 stars,2,spacex,facebook
+one 1 percent,PERCENT,2021-07-14,2 stars,2,spacex,facebook
+the 1 percent,PERCENT,2021-07-14,2 stars,2,spacex,facebook
+don,PERSON,2021-08-02,1 star,1,spacex,facebook
+earth,LOC,2021-07-13,5 stars,5,spacex,facebook
+super mario,FAC,2021-07-03,4 stars,4,spacex,facebook
+mrsa,ORG,2021-07-02,2 stars,2,spacex,facebook
+spanish,NORP,2021-07-24,2 stars,2,spacex,facebook
+german,NORP,2021-07-24,2 stars,2,spacex,facebook
+nazis,NORP,2021-07-24,2 stars,2,spacex,facebook
+jim rohn,PERSON,2021-07-31,3 stars,3,spacex,facebook
+christianity,NORP,2021-07-31,3 stars,3,spacex,facebook
+earth,LOC,2021-07-31,3 stars,3,spacex,facebook
+earth,LOC,2021-07-13,5 stars,5,spacex,facebook
+earth,LOC,2021-07-27,1 star,1,spacex,facebook
+maya,PERSON,2021-07-27,1 star,1,spacex,facebook
+elon,ORG,2021-07-28,3 stars,3,spacex,facebook
+elon,ORG,2021-08-05,1 star,1,spacex,facebook
+elon musk,PERSON,2021-08-05,1 star,1,spacex,facebook
+mars,LOC,2021-08-05,1 star,1,spacex,facebook
+elon,PERSON,2021-08-02,5 stars,5,spacex,facebook
+elon,PERSON,2021-08-02,5 stars,5,spacex,facebook
+earth,LOC,2021-08-02,5 stars,5,spacex,facebook
+first,ORDINAL,2021-07-05,4 stars,4,spacex,facebook
+covid,PERSON,2021-07-16,2 stars,2,spacex,facebook
+africa,LOC,2021-07-16,2 stars,2,spacex,facebook
+triassic,LOC,2021-07-27,3 stars,3,spacex,facebook
+jurassic,LOC,2021-07-27,3 stars,3,spacex,facebook
+bc,ORG,2021-07-27,3 stars,3,spacex,facebook
+elon musk,PERSON,2021-08-03,5 stars,5,spacex,facebook
+interpol,ORG,2021-07-26,1 star,1,spacex,facebook
+fbi,ORG,2021-07-26,1 star,1,spacex,facebook
+elon musk,PERSON,2021-07-26,3 stars,3,spacex,facebook
+edison,ORG,2021-07-17,1 star,1,spacex,facebook
+tesla,ORG,2021-07-17,1 star,1,spacex,facebook
+david ,PERSON,2021-07-19,4 stars,4,spacex,facebook
+bible,WORK_OF_ART,2021-08-03,5 stars,5,spacex,facebook
+bible,WORK_OF_ART,2021-08-03,4 stars,4,spacex,facebook
+bible,WORK_OF_ART,2021-07-05,5 stars,5,spacex,facebook
+earth,LOC,2021-07-13,1 star,1,spacex,facebook
+tabatha,PERSON,2021-04-01,4 stars,4,spacex,facebook
+pam hislip,PERSON,2021-04-01,4 stars,4,spacex,facebook
+america,GPE,2021-03-22,1 star,1,spacex,facebook
+communist,NORP,2021-03-22,1 star,1,spacex,facebook
+the signal,WORK_OF_ART,2021-03-22,1 star,1,spacex,facebook
+earth,LOC,2021-02-26,5 stars,5,spacex,facebook
+bruh,PERSON,2021-04-01,1 star,1,spacex,facebook
+america,GPE,2021-03-22,1 star,1,spacex,facebook
+rey riveras,PERSON,2021-03-29,1 star,1,spacex,facebook
+jack wheelers,PERSON,2021-03-29,1 star,1,spacex,facebook
+white house,ORG,2021-03-29,1 star,1,spacex,facebook
+hud,ORG,2021-04-07,2 stars,2,spacex,facebook
+jackson county oregon,GPE,2021-04-07,2 stars,2,spacex,facebook
+hud,ORG,2021-04-07,2 stars,2,spacex,facebook
+fbi,ORG,2021-03-17,2 stars,2,spacex,facebook
+americans,NORP,2021-03-17,2 stars,2,spacex,facebook
+fbi,ORG,2021-03-28,2 stars,2,spacex,facebook
+first,ORDINAL,2021-04-03,4 stars,4,spacex,facebook
+brian,PERSON,2021-03-02,2 stars,2,spacex,facebook
+deevoltion,PERSON,2021-04-03,4 stars,4,spacex,facebook
+dos,PRODUCT,2021-03-10,4 stars,4,spacex,facebook
+nuggets,ORG,2021-03-17,1 star,1,spacex,facebook
+russian,NORP,2021-03-17,1 star,1,spacex,facebook
+first,ORDINAL,2021-02-26,3 stars,3,spacex,facebook
+harmony,ORG,2021-02-26,3 stars,3,spacex,facebook
+judy ho,PERSON,2021-03-13,3 stars,3,spacex,facebook
+elisa lams,PERSON,2021-03-13,3 stars,3,spacex,facebook
+elisa lam,PERSON,2021-03-13,3 stars,3,spacex,facebook
+mike king,PERSON,2021-03-13,3 stars,3,spacex,facebook
+america,GPE,2021-03-10,1 star,1,spacex,facebook
+the united states,GPE,2021-03-10,1 star,1,spacex,facebook
+lauren,PERSON,2021-03-05,3 stars,3,spacex,facebook
+first,ORDINAL,2021-03-10,4 stars,4,spacex,facebook
+elon,ORG,2020-09-18,4 stars,4,spacex,facebook
+kbow,PERSON,2021-06-12,1 star,1,spacex,facebook
+microsoft,ORG,2021-06-12,1 star,1,spacex,facebook
+rome,GPE,2021-07-30,4 stars,4,spacex,facebook
+oregon,GPE,2021-01-29,1 star,1,spacex,facebook
+bible,WORK_OF_ART,2021-02-11,2 stars,2,spacex,facebook
+egyptians,NORP,2021-02-11,2 stars,2,spacex,facebook
+earth,LOC,2021-02-01,1 star,1,spacex,facebook
+earth,LOC,2021-02-11,3 stars,3,spacex,facebook
+brian,PERSON,2021-03-02,2 stars,2,spacex,facebook
+bible neglect,WORK_OF_ART,2021-03-07,5 stars,5,spacex,facebook
+harmony,ORG,2021-01-15,4 stars,4,spacex,facebook
+egyptians,NORP,2021-01-15,4 stars,4,spacex,facebook
+third,ORDINAL,2020-12-15,2 stars,2,spacex,facebook
+america,GPE,2021-03-22,1 star,1,spacex,facebook
+communist,NORP,2021-03-22,1 star,1,spacex,facebook
+the signal,WORK_OF_ART,2021-03-22,1 star,1,spacex,facebook
+bible,WORK_OF_ART,2020-12-19,2 stars,2,spacex,facebook
+first,ORDINAL,2020-12-19,2 stars,2,spacex,facebook
+warren buffet,PERSON,2020-12-19,2 stars,2,spacex,facebook
+earth,LOC,2020-12-22,5 stars,5,spacex,facebook
+ifi,ORG,2020-12-15,1 star,1,spacex,facebook
+fcc,ORG,2021-01-09,1 star,1,spacex,facebook
+elon,PERSON,2020-09-01,3 stars,3,spacex,facebook
+english,LANGUAGE,2020-09-01,3 stars,3,spacex,facebook
+armenian,NORP,2020-09-01,3 stars,3,spacex,facebook
+elon musk,PERSON,2020-09-01,3 stars,3,spacex,facebook
+russia,GPE,2020-09-01,3 stars,3,spacex,facebook
+tabatha,PERSON,2020-09-07,1 star,1,spacex,facebook
+ross,PERSON,2020-09-07,1 star,1,spacex,facebook
+oregon usa,ORG,2020-09-07,1 star,1,spacex,facebook
+shell,ORG,2020-09-04,3 stars,3,spacex,facebook
+charles myers,PERSON,2020-09-04,3 stars,3,spacex,facebook
+neuro,ORG,2020-08-19,4 stars,4,spacex,facebook
+nlp,ORG,2020-08-19,4 stars,4,spacex,facebook
+virgin,NORP,2021-07-27,1 star,1,vg,facenook
+richard,PERSON,2021-07-27,1 star,1,vg,facenook
+kris gundersen,PERSON,2021-07-27,1 star,1,vg,facenook
+richard branson,PERSON,2021-07-18,5 stars,5,vg,facenook
+wish,PERSON,2021-07-18,5 stars,5,vg,facenook
+ukraine,GPE,2021-07-19,5 stars,5,vg,facenook
+virgin galactic,ORG,2021-07-19,5 stars,5,vg,facenook
+us,GPE,2021-07-19,5 stars,5,vg,facenook
+blue origin,ORG,2021-07-19,5 stars,5,vg,facenook
+karman line,FAC,2021-07-19,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-18,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-18,5 stars,5,vg,facenook
+richard,PERSON,2021-07-18,5 stars,5,vg,facenook
+virgin galactic,ORG,2021-07-18,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-18,5 stars,5,vg,facenook
+branson,GPE,2021-07-18,5 stars,5,vg,facenook
+vero beach,GPE,2021-07-18,5 stars,5,vg,facenook
+florida,GPE,2021-07-18,5 stars,5,vg,facenook
+birthday sire please,WORK_OF_ART,2021-07-20,5 stars,5,vg,facenook
+finger lakes,LOC,2021-07-20,5 stars,5,vg,facenook
+ny,GPE,2021-07-20,5 stars,5,vg,facenook
+las cruces,GPE,2021-07-18,5 stars,5,vg,facenook
+new mexico,GPE,2021-07-18,5 stars,5,vg,facenook
+first,ORDINAL,2021-07-19,5 stars,5,vg,facenook
+birthday month,EVENT,2021-07-18,5 stars,5,vg,facenook
+trailblazer,PRODUCT,2021-07-18,5 stars,5,vg,facenook
+first,ORDINAL,2021-07-20,3 stars,3,vg,facenook
+richard,PERSON,2021-07-20,3 stars,3,vg,facenook
+richard branson,PERSON,2021-07-19,5 stars,5,vg,facenook
+celebration happy,WORK_OF_ART,2021-07-19,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-19,5 stars,5,vg,facenook
+siberia,LOC,2021-07-18,5 stars,5,vg,facenook
+first,ORDINAL,2021-07-18,5 stars,5,vg,facenook
+richard,PERSON,2021-07-18,5 stars,5,vg,facenook
+earth,LOC,2021-07-20,5 stars,5,vg,facenook
+woop woop,PERSON,2021-07-20,5 stars,5,vg,facenook
+branson,GPE,2021-07-20,5 stars,5,vg,facenook
+branson,PERSON,2021-07-21,5 stars,5,vg,facenook
+richard take,PERSON,2021-07-18,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-18,5 stars,5,vg,facenook
+branson mad,PERSON,2021-07-20,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-18,5 stars,5,vg,facenook
+virgin galactic,WORK_OF_ART,2021-07-18,5 stars,5,vg,facenook
+spce,ORG,2021-07-19,4 stars,4,vg,facenook
+richard,PERSON,2021-07-18,5 stars,5,vg,facenook
+apollo,ORG,2021-07-20,5 stars,5,vg,facenook
+mars,LOC,2021-07-20,5 stars,5,vg,facenook
+hb jb,ORG,2021-07-18,5 stars,5,vg,facenook
+unity,ORG,2021-07-18,5 stars,5,vg,facenook
+vergin galatic live,WORK_OF_ART,2021-07-19,5 stars,5,vg,facenook
+george kulangara,PERSON,2021-07-19,5 stars,5,vg,facenook
+kerala,GPE,2021-07-19,5 stars,5,vg,facenook
+nelson mandela,PERSON,2021-07-18,5 stars,5,vg,facenook
+richard,PERSON,2021-07-28,1 star,1,vg,facenook
+concorde,PRODUCT,2021-07-11,5 stars,5,vg,facenook
+mac 1 2,ORG,2021-07-11,5 stars,5,vg,facenook
+anne henriquez,PERSON,2021-07-19,5 stars,5,vg,facenook
+apollo,ORG,2021-07-11,5 stars,5,vg,facenook
+apple,ORG,2021-07-11,5 stars,5,vg,facenook
+lockheed airrospace,ORG,2021-07-11,5 stars,5,vg,facenook
+northrop,ORG,2021-07-11,5 stars,5,vg,facenook
+the enterprise n c c 1701,ORG,2021-07-11,5 stars,5,vg,facenook
+earth,LOC,2021-07-11,5 stars,5,vg,facenook
+vietnam,GPE,2021-07-11,5 stars,5,vg,facenook
+thai ha books,ORG,2021-07-11,5 stars,5,vg,facenook
+dr hung,PERSON,2021-07-11,5 stars,5,vg,facenook
+virgin,ORG,2021-07-12,1 star,1,vg,facenook
+nhs,ORG,2021-07-12,1 star,1,vg,facenook
+the british government,ORG,2021-07-12,1 star,1,vg,facenook
+eon musk instead,PERSON,2021-07-12,5 stars,5,vg,facenook
+richard branson,PERSON,2021-07-12,5 stars,5,vg,facenook
+mars,LOC,2021-07-12,5 stars,5,vg,facenook
+earth,LOC,2021-07-12,5 stars,5,vg,facenook
+jeff bezos,PERSON,2021-07-12,5 stars,5,vg,facenook
+covid,PERSON,2021-07-12,3 stars,3,vg,facenook
+virgin,NORP,2021-07-12,3 stars,3,vg,facenook
+brazil,GPE,2021-07-11,5 stars,5,vg,facenook
+amazing wonderful,WORK_OF_ART,2021-07-11,5 stars,5,vg,facenook
+virgin galatica,ORG,2021-07-11,1 star,1,vg,facenook
+mum,PERSON,2021-07-11,5 stars,5,vg,facenook
+first,ORDINAL,2021-07-11,5 stars,5,vg,facenook
+perth australia,ORG,2021-07-11,5 stars,5,vg,facenook
+first,ORDINAL,2021-07-11,4 stars,4,vg,facenook
+burt rutan,PERSON,2021-07-11,4 stars,4,vg,facenook
+virgin galactic spacefarer,ORG,2021-07-11,5 stars,5,vg,facenook
+hearfelt,PERSON,2021-07-11,5 stars,5,vg,facenook
+richard,PERSON,2021-07-11,5 stars,5,vg,facenook
+vg,ORG,2021-07-11,5 stars,5,vg,facenook
+vg,ORG,2021-07-11,5 stars,5,vg,facenook
+virgin atlantic,ORG,2021-07-12,1 star,1,vg,facenook
+500,MONEY,2021-07-12,1 star,1,vg,facenook
+nhs,ORG,2021-07-12,1 star,1,vg,facenook
+barnum,ORG,2021-07-12,1 star,1,vg,facenook
+uk,GPE,2021-07-12,1 star,1,vg,facenook
+govt,ORG,2021-07-12,1 star,1,vg,facenook
+philip green,ORG,2021-07-12,1 star,1,vg,facenook
+bailey,ORG,2021-07-12,1 star,1,vg,facenook
+murphy,PERSON,2021-07-11,1 star,1,vg,facenook
+bezos musk,PERSON,2021-07-11,1 star,1,vg,facenook
+incredible shame,WORK_OF_ART,2021-07-11,1 star,1,vg,facenook
+branson,GPE,2021-07-11,1 star,1,vg,facenook
+richard branson,PERSON,2021-07-12,5 stars,5,vg,facenook
+the karman line,ORG,2021-07-11,3 stars,3,vg,facenook
+richard branson great job,PERSON,2021-07-11,3 stars,3,vg,facenook
+richard branson,PERSON,2021-07-11,5 stars,5,vg,facenook
+amazing,PERSON,2021-07-11,5 stars,5,vg,facenook
+richie rich,PERSON,2021-07-11,4 stars,4,vg,facenook
+honey,PERSON,2021-07-11,4 stars,4,vg,facenook
+branson,GPE,2021-07-11,5 stars,5,vg,facenook
+monarch airlines,ORG,2021-07-11,5 stars,5,vg,facenook
+cabin crew,ORG,2021-07-11,5 stars,5,vg,facenook
+richard,PERSON,2021-07-11,1 star,1,vg,facenook
+monet,PERSON,2021-07-12,3 stars,3,vg,facenook
+lego astronauts,ORG,2021-07-11,5 stars,5,vg,facenook
+richard bransons,PERSON,2021-07-12,3 stars,3,vg,facenook
+richard branson,PERSON,2021-07-13,4 stars,4,vg,facenook
+virgin galactic,ORG,2021-07-11,5 stars,5,vg,facenook
+cgi,ORG,2021-07-11,1 star,1,vg,facenook
+faa,ORG,2021-09-03,5 stars,5,vg,facenook
+the virgin galactic,WORK_OF_ART,2021-09-03,5 stars,5,vg,facenook
+virgin galactic,ORG,2021-09-03,5 stars,5,vg,facenook
+don,PERSON,2021-09-03,5 stars,5,vg,facenook
+scott lewis,PERSON,2021-09-02,4 stars,4,vg,facenook
+don,PERSON,2021-09-02,1 star,1,vg,facenook
+faa,ORG,2021-09-02,3 stars,3,vg,facenook
+italian,NORP,2021-09-02,1 star,1,vg,facenook
+virgin galactic,ORG,2021-09-05,5 stars,5,vg,facenook
+jeff bezos,PERSON,2021-09-05,5 stars,5,vg,facenook
+ate ao espaco,PRODUCT,2021-09-02,4 stars,4,vg,facenook
+leva contigo eu tambem quero,PERSON,2021-09-02,4 stars,4,vg,facenook
+italian,NORP,2021-09-02,4 stars,4,vg,facenook
+vg tsc,ORG,2021-09-02,5 stars,5,vg,facenook
+branson,GPE,2021-09-03,1 star,1,vg,facenook
+the galactic federation,ORG,2021-09-02,5 stars,5,vg,facenook
+theis,ORG,2021-09-02,1 star,1,vg,facenook
+richard,PERSON,2021-09-04,1 star,1,vg,facenook
+beth,PERSON,2021-09-02,5 stars,5,vg,facenook
+ma non hanno fermato i voli,PERSON,2021-09-06,3 stars,3,vg,facenook
+the russian communist party,ORG,2021-09-02,1 star,1,vg,facenook
+trump,PERSON,2021-09-02,1 star,1,vg,facenook
+second,ORDINAL,2021-09-02,1 star,1,vg,facenook
+china,GPE,2021-09-02,1 star,1,vg,facenook
+fifth,ORDINAL,2021-09-02,1 star,1,vg,facenook
+north korea,GPE,2021-09-02,1 star,1,vg,facenook
+u s,PRODUCT,2021-09-02,1 star,1,vg,facenook
+u s,LOC,2021-09-02,1 star,1,vg,facenook
+the workers party of korea,ORG,2021-09-02,1 star,1,vg,facenook
+west,LOC,2021-09-02,1 star,1,vg,facenook
+russia,GPE,2021-09-02,1 star,1,vg,facenook
+the persian gulf,LOC,2021-09-02,1 star,1,vg,facenook
+flat earth,GPE,2021-09-02,1 star,1,vg,facenook
+mars mars,LOC,2021-09-02,1 star,1,vg,facenook
+greenland flat,GPE,2021-09-02,1 star,1,vg,facenook
+mars rodent,PRODUCT,2021-09-02,1 star,1,vg,facenook
+mike carnell,PERSON,2021-08-15,1 star,1,vg,facenook
+mike really,PERSON,2021-08-16,1 star,1,vg,facenook
+mike carnell,PERSON,2021-08-16,1 star,1,vg,facenook
+donate,ORG,2021-08-16,1 star,1,vg,facenook
+earth,LOC,2021-08-15,4 stars,4,vg,facenook
+first,ORDINAL,2021-08-15,4 stars,4,vg,facenook
+earth va,LOC,2021-08-15,4 stars,4,vg,facenook
+vg,ORG,2021-08-15,4 stars,4,vg,facenook
+mercury,ORG,2021-08-15,5 stars,5,vg,facenook
+first,ORDINAL,2021-08-15,5 stars,5,vg,facenook
+richard branson,PERSON,2021-08-16,5 stars,5,vg,facenook
+100 dollar,MONEY,2021-08-16,1 star,1,vg,facenook
+haven,ORG,2021-08-15,1 star,1,vg,facenook
+3rd,ORDINAL,2021-08-16,4 stars,4,vg,facenook
+stb,ORG,2021-08-16,1 star,1,vg,facenook
+moon,PERSON,2021-08-16,3 stars,3,vg,facenook
+mach,ORG,2021-08-19,1 star,1,vg,facenook
+len nao,ORG,2021-08-17,1 star,1,vg,facenook
+jeff bezos,PERSON,2021-08-25,4 stars,4,vg,facenook
+63 dollar,MONEY,2021-08-16,5 stars,5,vg,facenook
+kaufen,GPE,2021-08-16,5 stars,5,vg,facenook
+marek ,PERSON,2021-08-15,5 stars,5,vg,facenook
+calactic,ORG,2021-08-15,5 stars,5,vg,facenook
+greg johnson,PERSON,2021-08-05,3 stars,3,vg,facenook
+greg johnson,PERSON,2021-08-09,4 stars,4,vg,facenook
+richard branson,PERSON,2021-08-05,3 stars,3,vg,facenook
+elon musk,PERSON,2021-08-05,3 stars,3,vg,facenook
+earth,LOC,2021-08-06,5 stars,5,vg,facenook
+richard branson,PERSON,2021-08-06,5 stars,5,vg,facenook
+virgin galactic,ORG,2021-08-06,5 stars,5,vg,facenook
+virgin,ORG,2021-08-05,1 star,1,vg,facenook
+this fairground ride,EVENT,2021-08-05,1 star,1,vg,facenook
+don,PERSON,2021-08-06,5 stars,5,vg,facenook
+omaze,ORG,2021-08-05,5 stars,5,vg,facenook
+richard branson,PERSON,2021-08-08,4 stars,4,vg,facenook
+rocket,PRODUCT,2021-08-06,3 stars,3,vg,facenook
+wish,PERSON,2021-08-06,3 stars,3,vg,facenook
+galactic,NORP,2021-08-05,5 stars,5,vg,facenook
+richard,PERSON,2021-08-05,5 stars,5,vg,facenook
+neil degrasse tyson,PERSON,2021-08-05,1 star,1,vg,facenook
+love,WORK_OF_ART,2021-08-28,4 stars,4,vg,facenook
+richard branson,PERSON,2021-08-07,4 stars,4,vg,facenook
+jeff bezos,PERSON,2021-08-07,4 stars,4,vg,facenook
+nhs,ORG,2021-08-12,5 stars,5,vg,facenook
+spce,ORG,2021-08-06,5 stars,5,vg,facenook
+us,GPE,2021-08-06,1 star,1,vg,facenook
+space ,LOC,2021-08-05,4 stars,4,vg,facenook
+rich boys fairground ride,PERSON,2021-08-27,1 star,1,vg,facenook
+virgin galactic,ORG,2021-08-27,5 stars,5,vg,facenook
+peter herbert,PERSON,2021-08-28,5 stars,5,vg,facenook
+dickie,PERSON,2021-08-27,5 stars,5,vg,facenook
+tylko jednego,PERSON,2021-09-06,1 star,1,vg,facenook
+loty w kosmos pozostaja tylko w sferze marzen tym,PERSON,2021-09-06,1 star,1,vg,facenook
+mirosaw hermaszewski,ORG,2021-09-06,1 star,1,vg,facenook
+zoveel geluk heb ik niet,PERSON,2021-08-28,1 star,1,vg,facenook
+australia,GPE,2021-08-28,2 stars,2,vg,facenook
+saludos desde,ORG,2021-08-27,5 stars,5,vg,facenook
+ ,PERSON,2021-08-28,5 stars,5,vg,facenook
+julieta gonzalez tuchmann,PERSON,2021-08-28,1 star,1,vg,facenook
+definitevly,NORP,2021-08-31,1 star,1,vg,facenook
+omaze,ORG,2021-08-31,1 star,1,vg,facenook
+ng karmanline,PERSON,2021-08-31,1 star,1,vg,facenook
+love,WORK_OF_ART,2021-08-28,5 stars,5,vg,facenook
+richard,PERSON,2021-08-28,1 star,1,vg,facenook
+first,ORDINAL,2021-09-02,4 stars,4,vg,facenook
+cgi,ORG,2021-08-31,5 stars,5,vg,facenook
+next,ORG,2021-08-04,5 stars,5,vg,facenook
+hodl hodl,ORG,2021-08-04,5 stars,5,vg,facenook
+spce,ORG,2021-08-04,5 stars,5,vg,facenook
+earth,LOC,2021-08-03,2 stars,2,vg,facenook
+ncaa,ORG,2021-08-03,1 star,1,vg,facenook
+lex luthor,PERSON,2021-08-04,1 star,1,vg,facenook
+astronauts,ORG,2021-08-03,1 star,1,vg,facenook
+richard,PERSON,2021-08-04,5 stars,5,vg,facenook
+richard branson,PERSON,2021-08-04,5 stars,5,vg,facenook
+costa rica,GPE,2021-08-03,5 stars,5,vg,facenook
+thomass blake,PERSON,2021-08-03,1 star,1,vg,facenook
+the karman line,ORG,2021-08-04,1 star,1,vg,facenook
+seaquels,PERSON,2021-08-08,5 stars,5,vg,facenook
+virgin,NORP,2021-08-08,5 stars,5,vg,facenook
+europe,LOC,2021-08-07,4 stars,4,vg,facenook
+us,GPE,2021-08-07,4 stars,4,vg,facenook
+virgin,ORG,2021-08-07,4 stars,4,vg,facenook
+musk,PERSON,2021-08-04,4 stars,4,vg,facenook
+bezos,PRODUCT,2021-08-04,4 stars,4,vg,facenook
+branson,GPE,2021-08-04,4 stars,4,vg,facenook
+moon,ORG,2021-08-10,5 stars,5,vg,facenook
+spce,ORG,2021-08-10,5 stars,5,vg,facenook
+mars,LOC,2021-08-05,1 star,1,vg,facenook
+second,ORDINAL,2021-08-05,1 star,1,vg,facenook
+third,ORDINAL,2021-08-05,1 star,1,vg,facenook
+spacex,ORG,2021-08-05,1 star,1,vg,facenook
+zia,PERSON,2021-07-25,5 stars,5,vg,facenook
+congrats virgin galactic,PERSON,2021-07-26,5 stars,5,vg,facenook
+george kulangara,PERSON,2021-07-26,5 stars,5,vg,facenook
+perfecto,ORG,2021-07-25,5 stars,5,vg,facenook
+spce,ORG,2021-07-25,3 stars,3,vg,facenook
+bangladesh,GPE,2021-07-25,5 stars,5,vg,facenook
+virgin,PERSON,2021-07-26,5 stars,5,vg,facenook
+musk,PRODUCT,2021-07-26,4 stars,4,vg,facenook
+bezos,PRODUCT,2021-07-26,4 stars,4,vg,facenook
+nero,ORG,2021-07-27,4 stars,4,vg,facenook
+richard,PERSON,2021-07-30,1 star,1,vg,facenook
+vg on money netflix,ORG,2021-07-25,1 star,1,vg,facenook
+vg,ORG,2021-07-25,1 star,1,vg,facenook
+une annonce,ORG,2021-07-25,3 stars,3,vg,facenook
+branson,GPE,2021-07-25,5 stars,5,vg,facenook
+musk,PERSON,2021-08-10,1 star,1,vg,facenook
+branson,GPE,2021-08-10,1 star,1,vg,facenook
+nasa,ORG,2021-08-01,1 star,1,vg,facenook
+nessesary,PERSON,2021-08-01,1 star,1,vg,facenook
+geil,PERSON,2021-07-25,5 stars,5,vg,facenook
+blue origin,ORG,2021-07-23,4 stars,4,bo,facebook
+congrats jeff,PERSON,2021-07-23,4 stars,4,bo,facebook
+new glen,GPE,2021-07-22,5 stars,5,bo,facebook
+super high liquidity product service ability,ORG,2021-07-22,5 stars,5,bo,facebook
+great for investment attraction,ORG,2021-07-22,5 stars,5,bo,facebook
+us,GPE,2021-07-22,5 stars,5,bo,facebook
+blue origin,ORG,2021-07-22,5 stars,5,bo,facebook
+jeff,PERSON,2021-07-22,5 stars,5,bo,facebook
+van horn,FAC,2021-07-22,5 stars,5,bo,facebook
+jeff bezos,PERSON,2021-07-22,1 star,1,bo,facebook
+spacex elon musk,ORG,2021-07-22,1 star,1,bo,facebook
+nasa,ORG,2021-07-22,1 star,1,bo,facebook
+spacex,PERSON,2021-07-22,1 star,1,bo,facebook
+spacex,ORG,2021-07-22,1 star,1,bo,facebook
+nasa,ORG,2021-08-17,5 stars,5,bo,facebook
+earth,LOC,2021-07-25,1 star,1,bo,facebook
+nasa,ORG,2021-07-23,5 stars,5,bo,facebook
+the blue origin team,ORG,2021-07-23,5 stars,5,bo,facebook
+avon,ORG,2021-07-22,5 stars,5,bo,facebook
+?,PRODUCT,2021-07-22,1 star,1,bo,facebook
+jeff b,PERSON,2021-07-22,5 stars,5,bo,facebook
+blue origin!,ORG,2021-07-22,5 stars,5,bo,facebook
+van horn vhhs alumni,ORG,2021-07-23,5 stars,5,bo,facebook
+kent,PERSON,2021-08-17,3 stars,3,bo,facebook
+nasa,ORG,2021-08-17,1 star,1,bo,facebook
+iss,ORG,2021-08-17,1 star,1,bo,facebook
+yall,ORG,2021-08-17,1 star,1,bo,facebook
+spacex,ORG,2021-08-17,1 star,1,bo,facebook
+jeff,PERSON,2021-08-18,5 stars,5,bo,facebook
+nasa,ORG,2021-08-17,1 star,1,bo,facebook
+jeff bezos,PERSON,2021-08-16,5 stars,5,bo,facebook
+nasa,ORG,2021-08-16,1 star,1,bo,facebook
+tory,PERSON,2021-08-19,3 stars,3,bo,facebook
+bozo,NORP,2021-08-19,3 stars,3,bo,facebook
+biden,PERSON,2021-08-17,1 star,1,bo,facebook
+jeff bezos,PERSON,2021-08-17,1 star,1,bo,facebook
+nasa,ORG,2021-08-17,1 star,1,bo,facebook
+jeff washington post,ORG,2021-08-17,1 star,1,bo,facebook
+spacex,PERSON,2021-08-17,1 star,1,bo,facebook
+gary lai s,PERSON,2021-07-21,3 stars,3,bo,facebook
+ayaz parwez,PERSON,2021-07-22,5 stars,5,bo,facebook
+india,GPE,2021-07-22,5 stars,5,bo,facebook
+alan shepard,PERSON,2021-07-22,5 stars,5,bo,facebook
+youtube,PERSON,2021-07-22,1 star,1,bo,facebook
+tory,NORP,2021-07-21,1 star,1,bo,facebook
+jeff bezos,PERSON,2021-08-08,5 stars,5,bo,facebook
+amazon,ORG,2021-08-08,5 stars,5,bo,facebook
+inter milan,ORG,2021-08-08,5 stars,5,bo,facebook
+ya nasa national aeronautics and space administration tesla shareholders club virgin galactic blue origin,ORG,2021-07-22,5 stars,5,bo,facebook
+elon,ORG,2021-08-17,1 star,1,bo,facebook
+bezos,PRODUCT,2021-07-21,1 star,1,bo,facebook
+awesomeness,PRODUCT,2021-07-21,5 stars,5,bo,facebook
+bezos,PERSON,2021-07-22,1 star,1,bo,facebook
+jeff,PERSON,2021-07-22,1 star,1,bo,facebook
+karman,PERSON,2021-07-22,1 star,1,bo,facebook
+newmercury,ORG,2021-07-20,1 star,1,bo,facebook
+bezos,PERSON,2021-07-21,5 stars,5,bo,facebook
+amazon,ORG,2021-07-21,5 stars,5,bo,facebook
+first,ORDINAL,2021-07-20,5 stars,5,bo,facebook
+jeff bezos,PERSON,2021-07-20,5 stars,5,bo,facebook
+nasa,ORG,2021-07-20,5 stars,5,bo,facebook
+richard branson,PERSON,2021-07-20,5 stars,5,bo,facebook
+oxycontin,PERSON,2021-07-20,5 stars,5,bo,facebook
+cnn,ORG,2021-07-20,1 star,1,bo,facebook
+anderson cooper,PERSON,2021-07-20,1 star,1,bo,facebook
+crazy how,WORK_OF_ART,2021-07-20,1 star,1,bo,facebook
+earth,LOC,2021-07-20,1 star,1,bo,facebook
+branson,GPE,2021-07-20,1 star,1,bo,facebook
+bezos musk,PERSON,2021-07-20,1 star,1,bo,facebook
+blue origin,ORG,2021-07-20,5 stars,5,bo,facebook
+respect,ORG,2021-07-20,5 stars,5,bo,facebook
+rio grand electric coops service,ORG,2021-07-20,3 stars,3,bo,facebook
+austin powers,PERSON,2021-07-20,5 stars,5,bo,facebook
+jeff bezos,PERSON,2021-07-20,5 stars,5,bo,facebook
+beth emerson,PERSON,2021-07-20,5 stars,5,bo,facebook
+the next universe,WORK_OF_ART,2021-07-20,5 stars,5,bo,facebook
+yay congrats,PERSON,2021-07-20,5 stars,5,bo,facebook
+bezos,PRODUCT,2021-07-20,5 stars,5,bo,facebook
+amazon,ORG,2021-07-20,5 stars,5,bo,facebook
+wally funk s,PERSON,2021-07-20,1 star,1,bo,facebook
+first,ORDINAL,2021-07-20,1 star,1,bo,facebook
+nasa,ORG,2021-07-20,1 star,1,bo,facebook
+blue origin,ORG,2021-07-20,1 star,1,bo,facebook
+yuri gagarin,PERSON,2021-07-20,1 star,1,bo,facebook
+alan shepherd,PERSON,2021-07-20,1 star,1,bo,facebook
+vulcan,WORK_OF_ART,2021-07-21,1 star,1,bo,facebook
+trek,ORG,2021-07-21,1 star,1,bo,facebook
+stars,WORK_OF_ART,2021-07-21,1 star,1,bo,facebook
+wally,PERSON,2021-07-20,5 stars,5,bo,facebook
+bienvenidos blue origin welcome,ORG,2021-07-20,5 stars,5,bo,facebook
+cbs,ORG,2021-07-20,4 stars,4,bo,facebook
+walter cronkite,PERSON,2021-07-20,4 stars,4,bo,facebook
+amazon,ORG,2021-07-20,1 star,1,bo,facebook
+fantastic,NORP,2021-07-20,5 stars,5,bo,facebook
+congrats  great,PERSON,2021-07-21,5 stars,5,bo,facebook
+blue origin,ORG,2021-07-20,3 stars,3,bo,facebook
+journey jeff,PERSON,2021-07-20,5 stars,5,bo,facebook
+van jones,ORG,2021-07-20,5 stars,5,bo,facebook
+jose andreas,PERSON,2021-07-20,5 stars,5,bo,facebook
+blue origin,ORG,2021-07-20,5 stars,5,bo,facebook
+jeff,PERSON,2021-07-20,5 stars,5,bo,facebook
+texas,GPE,2021-07-20,5 stars,5,bo,facebook
+blue origin,ORG,2021-07-20,5 stars,5,bo,facebook
+valentina terashkova,PERSON,2021-07-20,5 stars,5,bo,facebook
+vostok 6,FAC,2021-07-20,5 stars,5,bo,facebook
+ glad,PERSON,2021-07-20,5 stars,5,bo,facebook
+cbsn,PRODUCT,2021-07-20,2 stars,2,bo,facebook
+wally glad,PERSON,2021-07-20,5 stars,5,bo,facebook
+jeff,PERSON,2021-07-20,4 stars,4,bo,facebook
+jeff bezos,PERSON,2021-07-20,5 stars,5,bo,facebook
+wally funk,PERSON,2021-07-20,5 stars,5,bo,facebook
+salute,NORP,2021-07-20,5 stars,5,bo,facebook
+piumona,PERSON,2021-07-20,4 stars,4,bo,facebook
+space ,ORG,2021-07-20,5 stars,5,bo,facebook
+bezos ,PERSON,2021-07-20,1 star,1,bo,facebook
+austin,PERSON,2021-07-20,5 stars,5,bo,facebook
+fly wally fly ,PERSON,2021-07-20,5 stars,5,bo,facebook
+marcy carney,PERSON,2021-07-20,5 stars,5,bo,facebook
+wally funk,PERSON,2021-07-19,4 stars,4,bo,facebook
+you ,ORG,2021-07-19,5 stars,5,bo,facebook
+bangladesh,GPE,2021-07-19,5 stars,5,bo,facebook
+tory s,PERSON,2021-07-19,3 stars,3,bo,facebook
+yay wally,PERSON,2021-07-21,5 stars,5,bo,facebook
+houston,GPE,2021-07-19,4 stars,4,bo,facebook
+earth,LOC,2021-07-21,4 stars,4,bo,facebook
+jeff bezos,PERSON,2021-07-19,2 stars,2,bo,facebook
+blue origins rocket,WORK_OF_ART,2021-07-19,2 stars,2,bo,facebook
+about 200 billion,MONEY,2021-07-19,2 stars,2,bo,facebook
+wally funk,PERSON,2021-07-20,4 stars,4,bo,facebook
+wally wally wally,PERSON,2021-07-20,5 stars,5,bo,facebook
+ ,PERSON,2021-07-20,3 stars,3,bo,facebook
+ ,PERSON,2021-07-20,3 stars,3,bo,facebook
+moonraker,FAC,2021-07-20,4 stars,4,bo,facebook
+communist,NORP,2021-07-20,1 star,1,bo,facebook
+kenya,GPE,2021-07-19,5 stars,5,bo,facebook
+earth ,LOC,2021-07-20,5 stars,5,bo,facebook
+mars,LOC,2021-07-19,2 stars,2,bo,facebook
+dr plummer,PERSON,2021-07-19,4 stars,4,bo,facebook
+johnny,PERSON,2021-07-19,4 stars,4,bo,facebook
+challengers,PRODUCT,2021-07-20,5 stars,5,bo,facebook
+peter orbital blue origin,ORG,2021-07-19,1 star,1,bo,facebook
+bezos lol,WORK_OF_ART,2021-07-19,1 star,1,bo,facebook
+tory orbital spacex,ORG,2021-07-19,1 star,1,bo,facebook
+ula,PERSON,2021-07-19,1 star,1,bo,facebook
+elon orbital rocket lab,ORG,2021-07-19,1 star,1,bo,facebook
+picard xd,PERSON,2021-07-20,5 stars,5,bo,facebook
+great value,ORG,2021-07-20,5 stars,5,bo,facebook
+jeff,PERSON,2021-07-20,5 stars,5,bo,facebook
+amanda brewer,PERSON,2021-08-20,1 star,1,bo,facebook
+spacex,ORG,2021-08-04,5 stars,5,bo,facebook
+jeff,PERSON,2021-07-24,5 stars,5,bo,facebook
+american,NORP,2021-07-22,4 stars,4,bo,facebook
+jeff bezos,PERSON,2021-07-22,3 stars,3,bo,facebook
+millions of dollars,MONEY,2021-07-22,1 star,1,bo,facebook
+bezos,PERSON,2021-07-21,2 stars,2,bo,facebook
+co2,ORG,2021-07-21,2 stars,2,bo,facebook
+branson,GPE,2021-07-21,2 stars,2,bo,facebook
+classic,PRODUCT,2021-07-21,2 stars,2,bo,facebook
+earth,LOC,2021-07-20,3 stars,3,bo,facebook
+beautiful l o v e ,ORG,2021-07-20,5 stars,5,bo,facebook
+ayaz parwez,PERSON,2021-07-20,5 stars,5,bo,facebook
+india,GPE,2021-07-20,5 stars,5,bo,facebook
+bible,WORK_OF_ART,2021-07-20,5 stars,5,bo,facebook
+amazon,ORG,2021-07-20,5 stars,5,bo,facebook
+earth,LOC,2021-07-20,5 stars,5,bo,facebook
+davidandbetty wolverton dwyergeorge,ORG,2021-07-20,4 stars,4,bo,facebook
+las2 awesome job,FAC,2021-07-20,5 stars,5,bo,facebook
+godspeed,PERSON,2021-07-20,5 stars,5,bo,facebook
+godspeed,PERSON,2021-07-20,5 stars,5,bo,facebook
+godspeed,PERSON,2021-07-20,5 stars,5,bo,facebook
+wally,PERSON,2021-07-19,5 stars,5,bo,facebook
+sri lanka,GPE,2021-07-19,5 stars,5,bo,facebook
+blue origins new shepard,ORG,2021-07-18,4 stars,4,bo,facebook
+wally,PERSON,2021-07-18,5 stars,5,bo,facebook
+lainey moore,PERSON,2021-07-18,5 stars,5,bo,facebook
+godspeed,PERSON,2021-07-19,5 stars,5,bo,facebook
+pioneer,ORG,2021-07-20,5 stars,5,bo,facebook
+earth,LOC,2021-07-19,5 stars,5,bo,facebook
+ ,PERSON,2021-07-20,3 stars,3,bo,facebook
+ ,PERSON,2021-07-20,3 stars,3,bo,facebook
+bleu orgin is ready to be origin,ORG,2021-07-19,5 stars,5,bo,facebook
+godspeed,PERSON,2021-07-19,1 star,1,bo,facebook
+brazil,GPE,2021-07-19,5 stars,5,bo,facebook
+fantastic,NORP,2021-07-19,5 stars,5,bo,facebook
+bezos,PERSON,2021-07-19,2 stars,2,bo,facebook
+hubble,ORG,2021-07-19,2 stars,2,bo,facebook
+musk branson,PERSON,2021-07-19,2 stars,2,bo,facebook
+first,ORDINAL,2021-07-19,4 stars,4,bo,facebook
+stuart cox,PERSON,2021-07-20,3 stars,3,bo,facebook
+ayaz parwez,PERSON,2021-07-20,5 stars,5,bo,facebook
+india,GPE,2021-07-20,5 stars,5,bo,facebook
+bezos,PRODUCT,2021-07-18,3 stars,3,bo,facebook
+bezos yee pee yee,PERSON,2021-07-18,1 star,1,bo,facebook
+tory,NORP,2021-07-18,3 stars,3,bo,facebook
+gobal,PRODUCT,2021-07-15,5 stars,5,bo,facebook
+america,GPE,2021-07-15,5 stars,5,bo,facebook
+the super sonic,ORG,2021-07-15,5 stars,5,bo,facebook
+lucky oliver,PERSON,2021-07-15,5 stars,5,bo,facebook
+silver spoon,ORG,2021-07-15,5 stars,5,bo,facebook
+will oliver,PERSON,2021-07-15,5 stars,5,bo,facebook
+oliver,PERSON,2021-07-15,5 stars,5,bo,facebook
+virgingalactic,ORG,2021-07-15,2 stars,2,bo,facebook
+38m dollar,MONEY,2021-07-15,1 star,1,bo,facebook
+oliver,PERSON,2021-07-15,3 stars,3,bo,facebook
+first,ORDINAL,2021-07-15,3 stars,3,bo,facebook
+second,ORDINAL,2021-07-15,5 stars,5,bo,facebook
+the orange moon,LOC,2021-07-23,1 star,1,bo,facebook
+orange moon,LOC,2021-07-23,1 star,1,bo,facebook
+van horn,PERSON,2021-07-18,3 stars,3,bo,facebook
+yap,PERSON,2021-07-15,3 stars,3,bo,facebook
+oliver run,PERSON,2021-07-15,1 star,1,bo,facebook
+seattle,GPE,2021-07-17,4 stars,4,bo,facebook
+kent,GPE,2021-07-17,4 stars,4,bo,facebook
+nasa,ORG,2021-07-17,4 stars,4,bo,facebook
+the international space station stream,ORG,2021-07-17,4 stars,4,bo,facebook
+the blue origin team,ORG,2021-07-17,4 stars,4,bo,facebook
+johnson esrs,PERSON,2021-07-17,4 stars,4,bo,facebook
+ya nasa national aeronautics and space administration tesla shareholders club virgin galactic blue origin,ORG,2021-07-15,5 stars,5,bo,facebook
+iss,ORG,2021-07-15,5 stars,5,bo,facebook
+wex foundation,ORG,2021-07-15,5 stars,5,bo,facebook
+seattle,GPE,2021-07-17,4 stars,4,bo,facebook
+kent,GPE,2021-07-17,4 stars,4,bo,facebook
+nasa,ORG,2021-07-17,4 stars,4,bo,facebook
+the international space station stream,ORG,2021-07-17,4 stars,4,bo,facebook
+the blue origin team,ORG,2021-07-17,4 stars,4,bo,facebook
+johnson esrs,PERSON,2021-07-17,4 stars,4,bo,facebook
+philippines,GPE,2021-07-19,4 stars,4,bo,facebook
+irs,ORG,2021-08-16,1 star,1,bo,facebook
+jeff,PERSON,2021-08-16,1 star,1,bo,facebook
+canada,GPE,2021-07-12,5 stars,5,bo,facebook
+latvia,GPE,2021-07-12,5 stars,5,bo,facebook
+pakistan,GPE,2021-07-12,5 stars,5,bo,facebook
+san pedro ca,GPE,2021-07-12,5 stars,5,bo,facebook
+zimbabwe,GPE,2021-07-19,5 stars,5,bo,facebook
+spacex,ORG,2021-07-16,3 stars,3,bo,facebook
+jeff,PERSON,2021-07-16,3 stars,3,bo,facebook
+seattle,GPE,2021-07-17,4 stars,4,bo,facebook
+kent,GPE,2021-07-17,4 stars,4,bo,facebook
+nasa,ORG,2021-07-17,4 stars,4,bo,facebook
+the international space station stream,ORG,2021-07-17,4 stars,4,bo,facebook
+the blue origin team,ORG,2021-07-17,4 stars,4,bo,facebook
+johnson esrs,PERSON,2021-07-17,4 stars,4,bo,facebook
+usa,GPE,2021-07-16,5 stars,5,bo,facebook
+first,ORDINAL,2021-07-20,5 stars,5,bo,facebook
+jeff bezos,PERSON,2021-07-20,5 stars,5,bo,facebook
+blue origin,ORG,2021-07-20,5 stars,5,bo,facebook
+new shepard,LOC,2021-07-20,5 stars,5,bo,facebook
+earth,LOC,2021-07-20,5 stars,5,bo,facebook
+australia,GPE,2021-07-18,4 stars,4,bo,facebook
+alexa,PERSON,2021-07-19,1 star,1,bo,facebook
+fantastic,NORP,2021-07-19,5 stars,5,bo,facebook
+uk,GPE,2021-07-19,3 stars,3,bo,facebook
+bezos,PERSON,2021-07-19,2 stars,2,bo,facebook
+hubble,ORG,2021-07-19,2 stars,2,bo,facebook
+musk branson,PERSON,2021-07-19,2 stars,2,bo,facebook
+blue origin from the,ORG,2021-07-20,5 stars,5,bo,facebook
+philippines,GPE,2021-07-20,5 stars,5,bo,facebook
+nsf,ORG,2021-07-18,1 star,1,bo,facebook
+crane,ORG,2021-07-18,1 star,1,bo,facebook
+america,GPE,2021-07-20,1 star,1,bo,facebook
+american,NORP,2021-07-20,1 star,1,bo,facebook
+about a million dollars,MONEY,2021-07-20,1 star,1,bo,facebook
+virginia,GPE,2021-07-26,2 stars,2,bo,facebook
+bozo,NORP,2021-07-26,2 stars,2,bo,facebook
+blue origin,ORG,2021-07-18,5 stars,5,bo,facebook
+earth,LOC,2021-07-17,5 stars,5,bo,facebook
+woohoo mohamed,PERSON,2021-07-16,5 stars,5,bo,facebook
+blue,ORG,2021-07-16,5 stars,5,bo,facebook
+blue origin ,ORG,2021-07-16,5 stars,5,bo,facebook
+shepard,PERSON,2021-07-16,5 stars,5,bo,facebook
+aldo,PERSON,2021-07-16,5 stars,5,bo,facebook
+dicks in space,ORG,2021-07-17,4 stars,4,bo,facebook
+wally,PERSON,2021-07-16,5 stars,5,bo,facebook
+glenn,PERSON,2021-07-16,2 stars,2,bo,facebook
+seattle,GPE,2021-07-17,4 stars,4,bo,facebook
+kent,GPE,2021-07-17,4 stars,4,bo,facebook
+nasa,ORG,2021-07-17,4 stars,4,bo,facebook
+the international space station stream,ORG,2021-07-17,4 stars,4,bo,facebook
+the blue origin team,ORG,2021-07-17,4 stars,4,bo,facebook
+johnson esrs,PERSON,2021-07-17,4 stars,4,bo,facebook
+van horn texas,ORG,2021-07-16,5 stars,5,bo,facebook
+ryan,PERSON,2021-07-16,5 stars,5,bo,facebook
+geoff,PERSON,2021-07-16,4 stars,4,bo,facebook
+puebla mexico,GPE,2021-07-16,1 star,1,bo,facebook
+third,ORDINAL,2021-07-16,3 stars,3,bo,facebook
+bugsy ortega munoz,PERSON,2021-07-16,5 stars,5,bo,facebook
+mohamed mess space,PERSON,2021-07-16,4 stars,4,bo,facebook
+ya nasa national aeronautics and space administration tesla shareholders club virgin galactic blue origin,ORG,2021-07-16,5 stars,5,bo,facebook
+bezos,PERSON,2021-07-19,2 stars,2,bo,facebook
+hubble,ORG,2021-07-19,2 stars,2,bo,facebook
+musk branson,PERSON,2021-07-19,2 stars,2,bo,facebook
+gradatim ferociter ad astra,ORG,2021-07-01,5 stars,5,bo,facebook
+wally,PERSON,2021-07-01,5 stars,5,bo,facebook
+cleveland,GPE,2021-07-01,5 stars,5,bo,facebook
+omg wally,PERSON,2021-07-01,5 stars,5,bo,facebook
+wally,PERSON,2021-07-01,5 stars,5,bo,facebook
+perfect,WORK_OF_ART,2021-07-01,5 stars,5,bo,facebook
+wally   ,ORG,2021-07-01,5 stars,5,bo,facebook
+blue oigin,PERSON,2021-07-01,5 stars,5,bo,facebook
+jeff,PERSON,2021-07-01,5 stars,5,bo,facebook
+ms wally funk,PERSON,2021-07-01,1 star,1,bo,facebook
+mercury,ORG,2021-07-01,5 stars,5,bo,facebook
+wally funk 82,PERSON,2021-07-01,5 stars,5,bo,facebook
+blue origin,ORG,2021-07-01,5 stars,5,bo,facebook
+wally,PERSON,2021-07-01,3 stars,3,bo,facebook
+wally,PERSON,2021-07-16,5 stars,5,bo,facebook
+bezos,ORG,2021-07-06,5 stars,5,bo,facebook
+branson,GPE,2021-07-06,5 stars,5,bo,facebook
+musk,PERSON,2021-07-10,1 star,1,bo,facebook
+faa,ORG,2021-07-10,1 star,1,bo,facebook
+the us air force,ORG,2021-07-10,1 star,1,bo,facebook
+bezos,PERSON,2021-07-10,1 star,1,bo,facebook
+branson,GPE,2021-07-10,1 star,1,bo,facebook
+woohoo wally,PERSON,2021-07-01,5 stars,5,bo,facebook
+brevard county,ORG,2021-07-09,4 stars,4,bo,facebook
+merritt island blue origin,FAC,2021-07-09,4 stars,4,bo,facebook
+c e o business,PERSON,2021-07-09,4 stars,4,bo,facebook
+million dollar,MONEY,2021-07-09,4 stars,4,bo,facebook
+space coast,LOC,2021-07-09,4 stars,4,bo,facebook
+steven snooks 321 289,PERSON,2021-07-09,4 stars,4,bo,facebook
+seattle,GPE,2021-07-05,4 stars,4,bo,facebook
+nasa,ORG,2021-07-05,4 stars,4,bo,facebook
+l a,ORG,2021-07-05,4 stars,4,bo,facebook
+us,GPE,2021-07-05,4 stars,4,bo,facebook
+miami,GPE,2021-07-05,4 stars,4,bo,facebook
+johnson esrs,PERSON,2021-07-05,4 stars,4,bo,facebook
+the international space station hd,ORG,2021-07-05,4 stars,4,bo,facebook
+phd,WORK_OF_ART,2021-07-09,5 stars,5,bo,facebook
+invite elon,ORG,2021-07-01,4 stars,4,bo,facebook
+  ,ORG,2021-07-11,,0,bo,facebook
+  ,PERSON,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+ ,PERSON,2021-07-11,,0,bo,facebook
+  ,WORK_OF_ART,2021-07-11,,0,bo,facebook
+  ,ORG,2021-07-11,,0,bo,facebook
+ ,PERSON,2021-07-11,,0,bo,facebook
+ ,PERSON,2021-07-11,,0,bo,facebook
+ ,WORK_OF_ART,2021-07-11,,0,bo,facebook
+   ,ORG,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+  ,PERSON,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+ ,LOC,2021-07-11,,0,bo,facebook
+     ,ORG,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+   ,ORG,2021-07-11,,0,bo,facebook
+ ,NORP,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+   ,ORG,2021-07-11,,0,bo,facebook
+  ,PERSON,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+10  ,PERCENT,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+ ,ORG,2021-07-11,,0,bo,facebook
+lauren,PERSON,2021-07-09,3 stars,3,bo,facebook
+lauren mhiz lisa,PERSON,2021-07-09,3 stars,3,bo,facebook
+wally,PERSON,2021-07-21,1 star,1,bo,facebook
+  ,ORG,2021-07-11,5 stars,5,bo,facebook
+  ,PERSON,2021-07-11,5 stars,5,bo,facebook
+    ,PERSON,2021-07-11,5 stars,5,bo,facebook
+  ,ORG,2021-07-11,5 stars,5,bo,facebook
+ c,ORG,2021-07-11,5 stars,5,bo,facebook
+sooo,PERSON,2021-06-12,1 star,1,bo,facebook
+bezos,ORG,2021-06-14,1 star,1,bo,facebook
+first,ORDINAL,2021-06-14,1 star,1,bo,facebook
+bezos,PERSON,2021-06-16,3 stars,3,bo,facebook
+elon,ORG,2021-06-16,3 stars,3,bo,facebook
+earth moon mars,LOC,2021-06-12,4 stars,4,bo,facebook
+vr,ORG,2021-06-12,4 stars,4,bo,facebook
+don,PERSON,2021-06-13,3 stars,3,bo,facebook
+blue origin,ORG,2021-06-13,1 star,1,bo,facebook
+1 3 miljoen dollars,MONEY,2021-06-13,1 star,1,bo,facebook
+jeff bezos,PERSON,2021-06-13,1 star,1,bo,facebook
+rocket,PRODUCT,2021-06-13,1 star,1,bo,facebook
+nasa,ORG,2021-06-13,2 stars,2,bo,facebook
+spacex,ORG,2021-06-13,2 stars,2,bo,facebook
+amazon,ORG,2021-06-12,1 star,1,bo,facebook
+elon musk,PERSON,2021-06-12,1 star,1,bo,facebook
+brevard county,ORG,2021-07-09,4 stars,4,bo,facebook
+merritt island blue origin,FAC,2021-07-09,4 stars,4,bo,facebook
+c e o business,PERSON,2021-07-09,4 stars,4,bo,facebook
+million dollar,MONEY,2021-07-09,4 stars,4,bo,facebook
+space coast,LOC,2021-07-09,4 stars,4,bo,facebook
+steven snooks 321 289,PERSON,2021-07-09,4 stars,4,bo,facebook
+sci fi,ORG,2021-06-29,5 stars,5,bo,facebook
+musk,PRODUCT,2021-06-22,3 stars,3,bo,facebook
+the space station,FAC,2021-06-23,5 stars,5,bo,facebook
+ ,PERSON,2021-06-15,3 stars,3,bo,facebook
+ ,PERSON,2021-06-15,3 stars,3,bo,facebook
+elon,ORG,2021-06-19,5 stars,5,bo,facebook
+avctoris,NORP,2021-07-08,5 stars,5,bo,facebook
+stirling,ORG,2021-07-08,5 stars,5,bo,facebook
+krzysztof jackowski,PERSON,2021-06-30,4 stars,4,bo,facebook
+jeff,PERSON,2021-06-30,4 stars,4,bo,facebook
+poland vision,ORG,2021-06-30,4 stars,4,bo,facebook
+french,NORP,2021-06-30,4 stars,4,bo,facebook
+polish,NORP,2021-06-30,4 stars,4,bo,facebook
+jackowski,PERSON,2021-06-30,4 stars,4,bo,facebook
+macron,PERSON,2021-06-30,4 stars,4,bo,facebook
+vg,ORG,2021-07-09,1 star,1,bo,facebook
+cohen,PERSON,2021-06-12,4 stars,4,bo,facebook
+elon musk ,PERSON,2021-06-12,5 stars,5,bo,facebook
+jeff,PERSON,2021-06-12,3 stars,3,bo,facebook
+capitol city robotics,ORG,2021-06-11,5 stars,5,bo,facebook
+seattle,GPE,2021-07-17,4 stars,4,bo,facebook
+kent,GPE,2021-07-17,4 stars,4,bo,facebook
+nasa,ORG,2021-07-17,4 stars,4,bo,facebook
+the international space station stream,ORG,2021-07-17,4 stars,4,bo,facebook
+the blue origin team,ORG,2021-07-17,4 stars,4,bo,facebook
+johnson esrs,PERSON,2021-07-17,4 stars,4,bo,facebook
+the us space force,ORG,2021-06-24,3 stars,3,bo,facebook
+the chinese space station,ORG,2021-06-24,3 stars,3,bo,facebook
+pienaar allers,PERSON,2021-06-11,5 stars,5,bo,facebook
+pella,ORG,2021-06-11,5 stars,5,bo,facebook
+ ,PERSON,2021-06-15,3 stars,3,bo,facebook
+ ,PERSON,2021-06-15,3 stars,3,bo,facebook
+joyce blacqueue demigoddess williams,PERSON,2021-06-18,1 star,1,bo,facebook
+blue origin,ORG,2021-08-27,5 stars,5,bo,facebook
+elon,ORG,2021-08-29,3 stars,3,bo,facebook
+nasa,ORG,2021-08-28,1 star,1,bo,facebook
+spacex,ORG,2021-08-28,1 star,1,bo,facebook
+cgi,ORG,2021-08-29,1 star,1,bo,facebook
+blue origin,ORG,2021-09-02,4 stars,4,bo,facebook
+spacex,PERSON,2021-09-02,4 stars,4,bo,facebook
+spacex,ORG,2021-09-02,4 stars,4,bo,facebook
+a rip off,ORG,2021-08-30,1 star,1,bo,facebook
+spacex,ORG,2021-08-30,1 star,1,bo,facebook
+russia,GPE,2021-08-30,1 star,1,bo,facebook
+china,GPE,2021-08-30,1 star,1,bo,facebook
+the entire galaxy trusted,ORG,2021-09-02,5 stars,5,bo,facebook
+don,PERSON,2021-09-04,1 star,1,bo,facebook
+blue origins,ORG,2021-08-29,4 stars,4,bo,facebook
+spacex,PERSON,2021-08-29,4 stars,4,bo,facebook
+nasa,ORG,2021-08-29,5 stars,5,bo,facebook
+blue origins,PRODUCT,2021-08-29,5 stars,5,bo,facebook
+second,ORDINAL,2021-08-29,5 stars,5,bo,facebook
+suepard,ORG,2021-08-29,3 stars,3,bo,facebook
+bezos,PERSON,2021-09-02,1 star,1,bo,facebook
+petar bosnic petar bosnic petrus,PERSON,2021-09-02,1 star,1,bo,facebook
+gravifugal,PERSON,2021-09-02,1 star,1,bo,facebook
+cofounders initiator,ORG,2021-09-02,4 stars,4,bo,facebook
+torys,ORG,2021-09-01,1 star,1,bo,facebook
+usa,GPE,2021-08-30,1 star,1,bo,facebook
+shared responsibility liabilities debit,ORG,2021-08-30,1 star,1,bo,facebook
+nasa,ORG,2021-08-27,3 stars,3,bo,facebook
+lex luthor,PERSON,2021-08-27,5 stars,5,bo,facebook
+blue origin,ORG,2021-08-26,4 stars,4,bo,facebook
+jeff,PERSON,2021-08-27,5 stars,5,bo,facebook
+nice,GPE,2021-08-27,5 stars,5,bo,facebook
+lose lawsuit,PERSON,2021-08-27,1 star,1,bo,facebook
+first,ORDINAL,2021-08-27,4 stars,4,bo,facebook
+paula tomlinson,PERSON,2021-08-27,5 stars,5,bo,facebook
+blue origin,ORG,2021-08-26,4 stars,4,bo,facebook
+quit,PERSON,2021-08-18,1 star,1,bo,facebook
+101 sue,PERSON,2021-08-18,1 star,1,bo,facebook
+blue origins,ORG,2021-08-18,1 star,1,bo,facebook
+nasa,ORG,2021-08-21,3 stars,3,bo,facebook
+the blue origin,ORG,2021-08-21,3 stars,3,bo,facebook
+bozo,NORP,2021-08-19,1 star,1,bo,facebook
+nasa,ORG,2021-08-20,1 star,1,bo,facebook
+blue origin,ORG,2021-08-20,1 star,1,bo,facebook
+american,NORP,2021-08-22,1 star,1,bo,facebook
+nasa,ORG,2021-08-22,1 star,1,bo,facebook
+earth,LOC,2021-08-24,5 stars,5,bo,facebook
+de brogliean lorentz,PERSON,2021-08-24,5 stars,5,bo,facebook
+bene geseritt,PERSON,2021-08-24,5 stars,5,bo,facebook
+don,PERSON,2021-08-22,4 stars,4,bo,facebook
+blue origin,ORG,2021-08-22,4 stars,4,bo,facebook
+the lunar landing,FAC,2021-08-22,4 stars,4,bo,facebook
+china,GPE,2021-08-22,4 stars,4,bo,facebook
+nasa,ORG,2021-08-20,1 star,1,bo,facebook
+jeff,PERSON,2021-08-24,1 star,1,bo,facebook
+nasa,ORG,2021-08-22,1 star,1,bo,facebook
+elon musk,PERSON,2021-08-22,1 star,1,bo,facebook
+nasa,ORG,2021-08-23,1 star,1,bo,facebook
+spacex,PERSON,2021-08-23,1 star,1,bo,facebook
+jeff,PERSON,2021-08-23,1 star,1,bo,facebook
+ ,LOC,2021-08-26,5 stars,5,bo,facebook
+ ,MONEY,2021-08-26,5 stars,5,bo,facebook
+jeff bezoar,PERSON,2021-08-20,1 star,1,bo,facebook
+us,GPE,2021-08-20,1 star,1,bo,facebook
+challenger,PRODUCT,2021-08-20,1 star,1,bo,facebook
+artemis,ORG,2021-08-20,1 star,1,bo,facebook
+bezos,PRODUCT,2021-08-18,1 star,1,bo,facebook
+nasa,ORG,2021-08-18,1 star,1,bo,facebook
+bezos,PRODUCT,2021-08-18,1 star,1,bo,facebook
+jeffery,PERSON,2021-08-18,1 star,1,bo,facebook
